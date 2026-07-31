@@ -1,0 +1,211 @@
+/* Dedicated phone entry. Desktop styles remain unchanged in index.html. */
+.mobile-home {
+  --mobile-pad: 18px;
+  overflow-x: hidden;
+}
+
+.mobile-home .header-inner,
+.mobile-home .page-width,
+.mobile-home .footer-inner {
+  width: calc(100% - (var(--mobile-pad) * 2));
+}
+
+.mobile-home .header-inner {
+  min-height: 0;
+  gap: 8px;
+  padding-block: 14px 8px;
+}
+
+.mobile-home .brand {
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+}
+
+.mobile-home .main-nav {
+  gap: 20px;
+}
+
+.mobile-home .nav-link {
+  padding: 5px 0 7px;
+  border-bottom-width: 2px;
+  font-size: 0.78rem;
+}
+
+.mobile-home .editorial-hero,
+.mobile-home[data-home-layout="b"] .editorial-hero {
+  min-height: 0;
+  display: block;
+  position: relative;
+  padding-block: 18px 42px;
+}
+
+.mobile-home .editorial-hero-media,
+.mobile-home[data-home-layout="b"] .editorial-hero-media {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  margin: 0;
+}
+
+.mobile-home .hero-look--photo > img {
+  object-position: 68% center;
+}
+
+.mobile-home .editorial-hero-copy,
+.mobile-home[data-home-layout="b"] .editorial-hero-copy {
+  width: min(78%, 290px);
+  position: absolute;
+  z-index: 5;
+  top: 34px;
+  right: auto;
+  bottom: auto;
+  left: 14px;
+  margin: 0;
+  padding: 12px 22px 13px 8px;
+  background: linear-gradient(90deg, rgba(247, 243, 235, 0.9) 0%, rgba(247, 243, 235, 0.7) 70%, rgba(247, 243, 235, 0) 100%);
+}
+
+.mobile-home .editorial-hero-copy h1,
+.mobile-home[data-home-layout="b"] .editorial-hero-copy h1 {
+  margin-bottom: 9px;
+  font-size: clamp(2.05rem, 9.4vw, 2.45rem);
+  line-height: 1.01;
+  letter-spacing: -0.055em;
+}
+
+.mobile-home .editorial-hero-copy h1 em {
+  white-space: normal;
+}
+
+.mobile-home .editorial-hero-copy p {
+  max-width: 235px;
+  margin-bottom: 9px;
+  padding: 0;
+  font-size: 0.68rem;
+  line-height: 1.55;
+}
+
+.mobile-home .editorial-link {
+  font-size: 0.78rem;
+}
+
+.mobile-home .hero-carousel-dots {
+  bottom: 12px;
+}
+
+.mobile-home .scene-editorial,
+.mobile-home .featured-editorial {
+  padding-block: 54px 62px;
+}
+
+.mobile-home .editorial-section-heading,
+.mobile-home .scene-editorial .editorial-section-heading {
+  display: block;
+  margin-bottom: 26px;
+}
+
+.mobile-home .editorial-section-heading h2,
+.mobile-home .scene-editorial .editorial-section-heading h2,
+.mobile-home .featured-editorial .editorial-section-heading h2 {
+  max-width: none;
+  margin: 0;
+  font-size: clamp(2.75rem, 13vw, 3.45rem);
+  line-height: 0.98;
+  letter-spacing: -0.06em;
+}
+
+.mobile-home .scene-editorial .editorial-section-heading p {
+  margin: 14px 0 0;
+  font-size: 0.86rem;
+  text-align: left;
+}
+
+.mobile-home .scene-collage {
+  gap: 7px;
+  margin-right: calc(var(--mobile-pad) * -1);
+  padding-right: var(--mobile-pad);
+}
+
+.mobile-home .scene-collage-item {
+  flex-basis: 44vw;
+}
+
+.mobile-home .scene-catalog-caption {
+  padding-top: 7px;
+}
+
+.mobile-home .scene-catalog-caption strong {
+  font-size: 0.84rem;
+}
+
+.mobile-home .featured-editorial .editorial-section-heading {
+  margin-bottom: 26px;
+}
+
+.mobile-home .featured-topic {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.mobile-home .featured-topic-main .image-placeholder {
+  aspect-ratio: 4 / 5;
+}
+
+.mobile-home .featured-topic-copy {
+  order: 2;
+}
+
+.mobile-home .featured-topic-copy .content-status {
+  margin-bottom: 8px;
+  font-size: 0.65rem;
+}
+
+.mobile-home .featured-topic-copy h3 {
+  margin-bottom: 9px;
+  font-size: 2rem;
+}
+
+.mobile-home .featured-topic-copy > p:not(.content-status) {
+  margin-bottom: 13px;
+  font-size: 0.84rem;
+  line-height: 1.65;
+}
+
+.mobile-home .featured-topic-details {
+  order: 3;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.mobile-home .featured-topic-detail {
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.mobile-home .featured-topic-detail > img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+}
+
+.mobile-home .site-footer {
+  padding-block: 24px;
+}
+
+.mobile-home .footer-inner {
+  gap: 8px;
+  font-size: 0.75rem;
+}
+
+@media (min-width: 701px) {
+  .mobile-home {
+    width: 430px;
+    min-height: 100vh;
+    margin-inline: auto;
+    border-inline: 1px solid var(--editorial-line);
+  }
+}

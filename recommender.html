@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="根据身份阶段、使用场景、风格与预算，查看一套场景穿搭参考。" />
+    <title>穿搭推荐 · 155 STYLE NOTES</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="src/styles.css" />
+    <link rel="stylesheet" href="src/recommender-editorial.css?v=modal-confirmation-card-v2-20260717" />
+  </head>
+  <body class="editorial-page recommender-page">
+    <header data-site-header></header>
+    <main class="recommender-main">
+      <section class="recommender-editorial page-width" aria-labelledby="recommender-title">
+        <header class="recommender-heading">
+          <h1 id="recommender-title">穿搭推荐</h1>
+          <p>选择身份阶段、场景和风格，看看哪套搭配更适合。</p>
+        </header>
+
+        <div class="recommender-composer">
+          <figure class="recommender-portrait">
+            <img src="assets/recommender-portrait.png" alt="身穿白色衬衫与浅色长裤的人物" />
+          </figure>
+
+          <form class="recommendation-form" data-recommendation-form novalidate>
+            <input type="hidden" name="height" value="155" />
+
+            <fieldset class="choice-group">
+              <legend>身份阶段</legend>
+              <div class="choice-list">
+                <label class="choice-option"><input type="radio" name="stage" value="student" /><span>在校生</span></label>
+                <label class="choice-option"><input type="radio" name="stage" value="intern" /><span>实习生</span></label>
+                <label class="choice-option"><input type="radio" name="stage" value="graduate" /><span>应届求职者</span></label>
+                <label class="choice-option"><input type="radio" name="stage" value="newcomer" /><span>职场新人</span></label>
+              </div>
+              <p class="field-error" data-error="stage" hidden></p>
+            </fieldset>
+
+            <fieldset class="choice-group">
+              <legend>使用场景</legend>
+              <div class="choice-list choice-list--scene">
+                <label class="choice-option"><input type="radio" name="scene" value="interview" /><span>面试</span></label>
+                <label class="choice-option"><input type="radio" name="scene" value="internship" /><span>实习第一天</span></label>
+                <label class="choice-option"><input type="radio" name="scene" value="commute" /><span>日常通勤</span></label>
+                <label class="choice-option"><input type="radio" name="scene" value="date" /><span>约会</span></label>
+                <label class="choice-option"><input type="radio" name="scene" value="weekend" /><span>周末出行</span></label>
+                <label class="choice-option"><input type="radio" name="scene" value="travel" /><span>旅行</span></label>
+              </div>
+              <p class="field-error" data-error="scene" hidden></p>
+            </fieldset>
+
+            <fieldset class="choice-group">
+              <legend>风格偏好</legend>
+              <div class="choice-list">
+                <label class="choice-option"><input type="radio" name="style" value="minimal" /><span>简约</span></label>
+                <label class="choice-option"><input type="radio" name="style" value="gentle" /><span>温柔</span></label>
+                <label class="choice-option"><input type="radio" name="style" value="sharp" /><span>利落</span></label>
+                <label class="choice-option"><input type="radio" name="style" value="casual" /><span>休闲</span></label>
+                <label class="choice-option"><input type="radio" name="style" value="none" /><span>无明确偏好</span></label>
+              </div>
+              <p class="field-error" data-error="style" hidden></p>
+            </fieldset>
+
+            <fieldset class="choice-group">
+              <legend>整套预算</legend>
+              <div class="choice-list choice-list--budget">
+                <label class="choice-option"><input type="radio" name="budget" value="under300" /><span>300元以内</span></label>
+                <label class="choice-option"><input type="radio" name="budget" value="300to500" /><span>300—500元</span></label>
+                <label class="choice-option"><input type="radio" name="budget" value="500to800" /><span>500—800元</span></label>
+                <label class="choice-option"><input type="radio" name="budget" value="over800" /><span>800元以上</span></label>
+              </div>
+              <p class="field-error" data-error="budget" hidden></p>
+            </fieldset>
+
+            <div class="selection-summary" data-selection-summary aria-live="polite" hidden></div>
+
+            <button class="recommendation-submit" type="submit">
+              <span>查看匹配方案</span>
+              <svg aria-hidden="true" viewBox="0 0 24 12" focusable="false"><path d="M1 6h20M16 1l5 5-5 5" /></svg>
+            </button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <div class="match-modal" data-match-modal hidden>
+      <section class="match-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="match-modal-title">
+        <button class="match-modal-close" type="button" aria-label="关闭匹配结果" data-modal-close>×</button>
+        <div data-result-content></div>
+      </section>
+    </div>
+
+    <footer data-site-footer></footer>
+    <script type="module" src="src/recommender.js?v=scene-results-20260721"></script>
+  </body>
+</html>

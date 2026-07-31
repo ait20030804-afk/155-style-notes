@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>项目笔记 · 155 STYLE NOTES</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+  <body>
+    <header data-site-header></header>
+    <main class="page-width page-layout review-layout">
+      <header class="page-header review-header">
+        <h1>项目笔记</h1>
+        <p>记录这个网站为什么开始、怎样整理，以及接下来还要做什么。</p>
+      </header>
+
+      <nav class="review-toc" aria-label="项目笔记目录">
+        <strong>页面目录</strong>
+        <a href="#why">为什么开始</a>
+        <a href="#observations">我观察到的问题</a>
+        <a href="#approach">网站怎么解决</a>
+        <a href="#choices">我做出的选择</a>
+        <a href="#process">制作过程与下一步</a>
+      </nav>
+
+      <div class="review-content">
+        <section class="review-section" id="why">
+          <h2>为什么开始</h2>
+          <p>身高150—160cm的年轻女性在面试、通勤、约会或旅行前，经常需要翻看很多穿搭内容，才能找到一套同时符合场景、预算和个人风格的完整搭配。155 STYLE NOTES 从这个日常选择开始。</p>
+        </section>
+
+        <section class="review-section" id="observations">
+          <h2>我观察到的问题</h2>
+          <ul>
+            <li>灵感很多，但要筛选出适合自己身高和场景的内容并不快。</li>
+            <li>不少内容只展示图片或单件商品，缺少完整搭配和比例说明。</li>
+            <li>预算、风格和使用场景常常需要用户自己反复比较。</li>
+          </ul>
+        </section>
+
+        <section class="review-section" id="approach">
+          <h2>网站怎么解决</h2>
+          <ul>
+            <li>先从面试、实习、通勤、约会、周末和旅行6个常见场景开始。</li>
+            <li>用户选择身高、身份、场景、预算和风格后，查看一套完整搭配。</li>
+            <li>结果同时说明核心单品、色彩、比例和可替换选择。</li>
+            <li>当前演示使用预设规则和静态案例，不是实时生成。</li>
+          </ul>
+        </section>
+
+        <section class="review-section" id="choices">
+          <h2>我做出的选择</h2>
+          <ul>
+            <li>删掉当前无法真实处理的自由描述，只保留能工作的选项。</li>
+            <li>每个场景先用1套基础模板，避免为了数量重复堆叠内容。</li>
+            <li>案例详情留在同一页展开，阅读完整内容时不用来回跳转。</li>
+            <li>低保真阶段只使用占位图和示例文字，正式穿搭内容之后补充。</li>
+          </ul>
+        </section>
+
+        <section class="review-section" id="process">
+          <h2>制作过程与下一步</h2>
+          <p>制作中使用AI辅助整理结构和实现页面，穿搭选品与正式内容仍由作者完成。目前处于低保真原型阶段，接下来会继续制作内容、完善视觉，再进行真实用户测试。</p>
+          <ol class="process-line" aria-label="项目制作进度">
+            <li>需求梳理</li>
+            <li>信息架构</li>
+            <li class="is-current" aria-current="step">低保真原型</li>
+            <li>内容制作</li>
+            <li>视觉完善</li>
+            <li>用户测试</li>
+          </ol>
+        </section>
+      </div>
+    </main>
+    <footer data-site-footer></footer>
+    <script type="module">import { initShell } from './src/shared.js'; initShell('review.html')</script>
+  </body>
+</html>

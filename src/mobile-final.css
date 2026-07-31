@@ -1,0 +1,71 @@
+@media (max-width: 700px) {
+  .mobile-home .header-inner {
+    min-height: 56px;
+    display: block;
+    position: relative;
+    padding-block: 10px;
+  }
+
+  .mobile-home .site-header .brand {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 0.66rem;
+    letter-spacing: 0.08em;
+  }
+
+  .mobile-home .main-nav {
+    width: auto;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin: 0;
+    transform: translateY(-50%);
+    justify-content: flex-start;
+    gap: 8px;
+    overflow: visible;
+  }
+
+  .mobile-home .nav-link {
+    flex: 0 0 auto;
+    padding: 7px 0 6px;
+    font-size: 0.6rem;
+    white-space: nowrap;
+  }
+
+  .mobile-home .editorial-hero-media,
+  .mobile-home[data-home-layout="b"] .editorial-hero-media {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    margin-inline: 0;
+  }
+
+  .mobile-home .editorial-hero-copy,
+  .mobile-home[data-home-layout="b"] .editorial-hero-copy {
+    width: min(54%, 210px);
+    top: 20px;
+    left: 8px;
+    padding: 8px 10px 10px 6px;
+    background: linear-gradient(90deg, rgba(247, 243, 235, 0.86) 0%, rgba(247, 243, 235, 0.66) 76%, rgba(247, 243, 235, 0) 100%);
+  }
+
+  .mobile-home .editorial-hero-copy h1,
+  .mobile-home[data-home-layout="b"] .editorial-hero-copy h1 {
+    margin-bottom: 6px;
+    font-family: "Songti SC", STSong, SimSun, Georgia, serif;
+    font-size: clamp(1.48rem, 7vw, 1.72rem);
+    line-height: 1.04;
+  }
+
+  .mobile-home .editorial-hero-copy p {
+    max-width: 178px;
+    margin-bottom: 6px;
+    font-size: 0.57rem;
+    line-height: 1.48;
+  }
+
+  .mobile-home .editorial-hero-copy .editorial-link {
+    font-size: 0.62rem;
+  }
+}
