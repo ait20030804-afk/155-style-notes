@@ -427,12 +427,437 @@ let personalization = caseFromUrl
   && Number.isInteger(requestedHeight)
   && requestedHeight >= 150
   && requestedHeight <= 160
-  && validStag×|¶‰ËkºwµçVnûœ)ô()™Õ¹Ñ¥½¸‰Õ‘•Ñ¹‘I•Á±…•µ•¹Ğ¡½ÕÑ™¥Ñ…Í”¤ì(€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•ÉÙ¥•Üœ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ…Í¥‘”±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ğµ¡¥¹Ğˆ…É¥„µ±…‰•°ô‹šnÿš6‹š>C’èˆø(€€€€€€€€ñÍÑÉ½¹œûš6‹v¦üğ½ÍÑÉ½¹œø(€€€€€€€€ñÍÁ…¸û¦J#î’â+¢–>¿’î—š6‹š"CÆÏf÷¢†³¢†¯¾ò3¦z/–2–#R£–ŞËšr'jšŞÇ¢&Ëš²ûğ½ÍÁ…¸ø(€€€€€€ğ½…Í¥‘”ù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•É¹Í¡¥Àœ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ…Í¥‘”±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ğµ¡¥¹Ğˆ…É¥„µ±…‰•°ô‹šnÿš6‹š>C’èˆø(€€€€€€€€ñÍÑÉ½¹œûš6‹v¦üğ½ÍÑÉ½¹œø(€€€€€€€€ñÍÁ…¸û¦J#î¢†¯–J3¦z/–2¾ò3–>¿’î—–#’î;¢†š¦Ç¦3š&ûnã¢şGš²ûğ½ÍÁ…¸ø(€€€€€€ğ½…Í¥‘”ù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€½µµÕÑ”œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ…Í¥‘”±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ğµ¡¥¹Ğˆ…É¥„µ±…‰•°ô‹šnÿš6‹š>C’èˆø(€€€€€€€€ñÍÑÉ½¹œûš6‹v¦üğ½ÍÑÉ½¹œø(€€€€€€€€ñÍÁ…¸û¦z/–2’â7R£–º3–£š"C––_¾ò3¦Šs¢&Ëš:—¢şG–ÂÇ–’’êğ½ÍÁ…¸ø(€€€€€€ğ½…Í¥‘”ù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€‘…Ñ”œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ…Í¥‘”±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ğµ¡¥¹Ğˆ…É¥„µ±…‰•°ô‹šnÿš6‹š>C’èˆø(€€€€€€€€ñÍÑÉ½¹œûš6‹v¦üğ½ÍÑÉ½¹œø(€€€€€€€€ñÍÁ…¸û¦z/–2’â7R£¦÷š6‹š"C¦Kê‹¢&Ë¾ò3Vg’â’îÛ–k
-çò–ÂÇ–’’êğ½ÍÁ…¸ø(€€€€€€ğ½…Í¥‘”ù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€İ••­•¹œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ…Í¥‘”±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ğµ¡¥¹Ğˆ…É¥„µ±…‰•°ô‹šnÿš6‹š>C’èˆø(€€€€€€€€ñÍÑÉ½¹œûš6‹v¦üğ½ÍÑÉ½¹œø(€€€€€€€€ñÍÁ…¸û¦J#î¢†¯’æ–>¿’î—š*¯–r£¢
-§’â+¾ò3f÷¢&Ë–B+–â›–J3~·¢“–6W¦ÿ’úwÛ–º3šVÓğ½ÍÁ…¸ø(€€€€€€ğ½…Í¥‘”ù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€ÑÉ…Ù•°œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ…Í¥‘”±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ğµ¡¥¹Ğˆ…É¥„µ±…‰•°ô‹šnÿš6‹š>C’èˆø(€€€€€€€€ñÍÑÉ½¹œûš6‹v¦üğ½ÍÑÉ½¹œø(€€€€€€€€ñÍÁ…¸ûš*+Š;¢*Ç–6+¢gš6‹š"Cf÷¢&Ë¦bS¢ÿ¢“¾ò3ê‹¢&Ë–2š6‹š"CšŞÇ¢&Ë¾ò3¢şg––_–ÂÇ¢÷¦ÿ–n{š^—–âãğ½ÍÁ…¸ø(€€€€€€ğ½…Í¥‘”ù€(€ô((€½¹ÍĞÁÉ•Ù¥•Ü€ô•áÁ…¹‘•‘AÉ•Ù¥•İ	å%‘m½ÕÑ™¥Ñ…Í”¹¥‘t(€½¹ÍĞ‰Õ‘•Ğ€ôÁÉ•Ù¥•Üü¹‰Õ‘•Ğ€üü€Ÿ’ë’ú/––ºç¾ò?–úšnÿš6‹¾òk–B;î·¢†—–šr³š²‡šZÃ–Š{¢Ò·ö»¦Šº_¾ò3–æÛ’òc–#¢¾Óšb;–>¿’öÿR£j¢†š¦Ç–ŞËšr'–~ë†š²ûœ(€½¹ÍĞÉ•Á±…•µ•¹ÑÌ€ôÁÉ•Ù¥•Üü¹É•Á±…•µ•¹ÑÌ€üülŸ’ë’ú/––ºç¾ò?–úšnÿš6‹¾òk–B;î·¢†—––B3îOšzjšnÿš6‹–6W–Nt(€½¹ÍĞÁÉ¥¹¥Á±”€ôÁÉ•Ù¥•Üü¹ÁÉ¥¹¥Á±”€üü€Ÿšnÿš6‹š^Û’şwVg–:šZçš†#jš¾S’ú/îOšz¾ò3š¶–ò?––ºç–ú¢†—–œ((€É•ÑÕÉ¸€(€€€€ñ™½½Ñ•È±…ÍÌô‰•‘¥Ñ½É¥…°µ‘•Ñ…¥°µ™½½Ñ•Èˆø(€€€€€€ñ‰ÕÑÑ½¸±…ÍÌô‰•‘¥Ñ½É¥…°µ‰Õ‘•ĞµÑ½±”ˆÑåÁ”ô‰‰ÕÑÑ½¸ˆ‘…Ñ„µ‰Õ‘•ĞµÑ½±”…É¥„µ•áÁ…¹‘•ô‰™…±Í”ˆ…É¥„µ½¹ÑÉ½±Ìô‰‰Õ‘•Ğ´‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆø(€€€€€€€ƒ¦Šº_šr'¦fC¾òš~—r/šnÿš6‹šw¢Ş¼€ñÍÁ…¸…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆûŠLğ½ÍÁ…¸ø(€€€€€€ğ½‰ÕÑÑ½¸ø(€€€€€€ñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µ‰Õ‘•Ğµ½±±…ÁÍ”ˆ¥ô‰‰Õ‘•Ğ´‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆ‘…Ñ„µ‰Õ‘•ĞµÁ…¹•°…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆø(€€€€€€€€ñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µ‰Õ‘•Ğµ¥¹¹•Èˆø(€€€€€€€€€€ñ¡•…‘•ÈøñÀù	UP€˜=AQ%=9Lğ½Àøñ Ğû¦Šº_’â;šnÿš6ˆğ½ Ğøğ½¡•…‘•Èø(€€€€€€€€€€ñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µ‰Õ‘•ĞµÉ¥ˆø(€€€€€€€€€€€€ñÍ•Ñ¥½¸øñ Ôû¦Šº_–îë¢º¸ğ½ ÔøñÀ±…ÍÌô‰•‘¥Ñ½É¥…°µ‰Õ‘•Ğµ½Áäˆø‘í‰Õ‘•Ñôğ½Àøğ½Í•Ñ¥½¸ø(€€€€€€€€€€€€ñÍ•Ñ¥½¸øñ Ôûšnÿš6‹šw¢Ş¼ğ½ Ôøñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µÉ•Á±…•µ•¹Ğµ±¥ÍĞˆø‘íÉ•Á±…•µ•¹ÑÌ¹µ…À ¡¥Ñ•´¤€ôø€ñÀø‘í¥Ñ•µôğ½Àù€¤¹©½¥¸ œœ¥ôğ½‘¥Øøğ½Í•Ñ¥½¸ø(€€€€€€€€€€ğ½‘¥Øø(€€€€€€€€€€ñÀ±…ÍÌô‰•‘¥Ñ½É¥…°µÉ•Á±…”µÁÉ¥¹¥Á±”ˆø‘íÁÉ¥¹¥Á±•ôğ½Àø(€€€€€€€€€€ñÍµ…±°û––ºç’âëš:K&#’ë’ú/¾ò3–úš¶–ò?¦'–N–B;šnÿš6‹ğ½Íµ…±°ø(€€€€€€€€ğ½‘¥Øø(€€€€€€ğ½‘¥Øø(€€€€ğ½™½½Ñ•Èù€)ô()™Õ¹Ñ¥½¸…Í••Ñ…¥±9…Ù¥…Ñ¥½¸¡½ÕÑ™¥Ñ…Í”¤ì(€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•ÉÙ¥•Üœ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ¹…Ø±…ÍÌô‰…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ˆ…É¥„µ±…‰•°ô‹nã¦
-ï¦ÿšB´ˆø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôˆûŠ@ƒ¢şS–n{–£¦£¦ÿšB´ğ½„ø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ¥¹Ñ•É¹Í¡¥Àˆû’â/’â––\ƒ–º{’æƒ²³’â–’§¦ÿšB´ƒŠHğ½„ø(€€€€€€ğ½¹…Øù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•É¹Í¡¥Àœ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ¹…Ø±…ÍÌô‰…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ˆ…É¥„µ±…‰•°ô‹nã¦
-ï¦ÿšB´ˆø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ¥¹Ñ•ÉÙ¥•ÜˆûŠ@ƒ’â+’â––\ƒ¦v‹¢¾W¦ÿšB´ğ½„ø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ½µµÕÑ”ˆû’â/’â––\ƒš^—–âã¦k–.“¦ÿšB´ƒŠHğ½„ø(€€€€€€ğ½¹…Øù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€½µµÕÑ”œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ¹…Ø±…ÍÌô‰…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ˆ…É¥„µ±…‰•°ô‹nã¦
-ï¦ÿšB´ˆø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ¥¹Ñ•É¹Í¡¥ÀˆûŠ@ƒ’â+’â––\ƒ–º{’æƒ²³’â–’§¦ÿšB´ğ½„ø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ‘…Ñ”ˆû’â/’â––\ƒê›’òk¦ÿšB´ƒŠHğ½„ø(€€€€€€ğ½¹…Øù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€‘…Ñ”œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ¹…Ø±…ÍÌô‰…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ˆ…É¥„µ±…‰•°ô‹nã¦
-ï¦ÿšB´ˆø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ½µµÕÑ”ˆûŠ@ƒ’â+’â––\ƒš^—–âã¦k–.“¦ÿšB´ğ½„ø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õİ••­•¹ˆû’â/’â––\ƒ–F£šr¯–ë¢†3¦ÿšB´ƒŠHğ½„ø(€€€€€€ğ½¹…Øù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€İ••­•¹œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ¹…Ø±…ÍÌô‰…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ˆ…É¥„µ±…‰•°ô‹nã¦
-ï¦ÿšB´ˆø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õ‘…Ñ”ˆûŠ@ƒ’â+’â––\ƒê›’òk¦ÿšB´ğ½„ø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õÑÉ…Ù•°ˆû’â/’â––\ƒš^¢†3¦ÿšB´ƒŠHğ½„ø(€€€€€€ğ½¹…Øù€(€ô((€¥˜€¡½ÕÑ™¥Ñ…Í”¹¥€ôôô€ÑÉ…Ù•°œ¤ì(€€€É•ÑÕÉ¸€(€€€€€€ñ¹…Ø±…ÍÌô‰…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ˆ…É¥„µ±…‰•°ô‹nã¦
-ï¦ÿšB´ˆø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôı…Í”õİ••­•¹ˆûŠ@ƒ’â+’â––\ƒ–F£šr¯–ë¢†3¦ÿšB´ğ½„ø(€€€€€€€€ñ„¡É•˜ôˆ‘í…Í•A…•A…Ñ¡ôˆû¢şS–n{–£¦£¦ÿšB´ƒŠHğ½„ø(€€€€€€ğ½¹…Øù€(€ô((€É•ÑÕÉ¸€œœ)ô()™Õ¹Ñ¥½¸‘•Ñ…¥±%Ñ•µ5•‘¥„¡¥Ñ•´°¥¹‘•à°½ÕÑ™¥Ñ…Í”¤ì(€¥˜€ …¥Ñ•´¹¥µ…”¤É•ÑÕÉ¸¥µ…•A±…•¡½±‘•È Ÿ–6W–N–nû&–6ƒ’ö4œ¤((€½¹ÍĞµ•‘¥…±…ÍÌ€ô¥Ñ•´¹µ•‘¥…±…ÍÌ€ü€€‘í¥Ñ•´¹µ•‘¥…±…ÍÍõ€€è€œœ(€½¹ÍĞÁÉ½‘ÕÑ1¥¹­Ì€ô½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•ÉÙ¥•Üœ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•É¹Í¡¥Àœ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€½µµÕÑ”œ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€‘…Ñ”œ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€İ••­•¹œ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€ÑÉ…Ù•°œ(€€€€ü¥Ñ•´¹ÁÉ½‘ÕÑ1¥¹­Ì(€€€€è¹Õ±°(€¥˜€ …ÁÉ½‘ÕÑ1¥¹­Ìü¹±•¹Ñ ¤ì(€€€É•ÑÕÉ¸€ñ™¥ÕÉ”±…ÍÌô‰•‘¥Ñ½É¥…°µ¥Ñ•´µµ•‘¥„‘íµ•‘¥…±…ÍÍôˆøñ¥µœÍÉŒôˆ‘í¥Ñ•´¹¥µ…•ôˆ…±Ğôˆ‘í¥Ñ•´¹…±Ñôˆ€¼øğ½™¥ÕÉ”ù€(€ô((€½¹ÍĞ½Ù•É±…å1…‰•°€ôÁÉ½‘ÕÑ1¥¹­Ì¹±•¹Ñ €ø€Ä€ü€Ÿš~—r/nã’òó–6W–Nœ€èÁÉ½‘ÕÑ1¥¹­ÍlÁt¹±…‰•°(€½¹ÍĞÑÉ¥•ÉÑÑÉ¥‰ÕÑ•Ì€ôÁÉ½‘ÕÑ1¥¹­Ì¹±•¹Ñ €ôôô€Ä(€€€€ü¡É•˜ôˆ‘íÁÉ½‘ÕÑ1¥¹­ÍlÁt¹ÕÉ±ôˆÑ…É•Ğô‰}‰±…¹¬ˆÉ•°ô‰¹½½Á•¹•È¹½É•™•ÉÉ•È‰€(€€€€è¡É•˜ôˆŒˆ‘…Ñ„µÁÉ½‘ÕĞµÁ¥­•Èôˆ‘í¥¹‘•áôˆ‘…Ñ„µÁÉ½‘ÕĞµ…Í”ôˆ‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆ…É¥„µ¡…ÍÁ½ÁÕÀô‰‘¥…±½œ‰€((€É•ÑÕÉ¸€(€€€€ñ™¥ÕÉ”±…ÍÌô‰•‘¥Ñ½É¥…°µ¥Ñ•´µµ•‘¥„‘íµ•‘¥…±…ÍÍô¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµµ•‘¥„ˆø(€€€€€€ñ„±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÑÉ¥•Èˆ€‘íÑÉ¥•ÉÑÑÉ¥‰ÕÑ•Íô…É¥„µ±…‰•°ôˆ‘í½Ù•É±…å1…‰•±÷¾òh‘í¥Ñ•´¹¹…µ•ôˆø(€€€€€€€€ñ¥µœÍÉŒôˆ‘í¥Ñ•´¹¥µ…•ôˆ…±Ğôˆ‘í¥Ñ•´¹…±Ñôˆ€¼ø(€€€€€€€€ñÍÁ…¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµ½Ù•É±…äˆø‘í½Ù•É±…å1…‰•±ô€ñÍÁ…¸…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆûŠ\ğ½ÍÁ…¸øğ½ÍÁ…¸ø(€€€€€€ğ½„ø(€€€€ğ½™¥ÕÉ”ù€)ô()™Õ¹Ñ¥½¸•‘¥Ñ½É¥…±•Ñ…¥°¡½ÕÑ™¥Ñ…Í”¤ì(€½¹ÍĞ‘•Ñ…¥±%Ñ•µÌ€ô‘•Ñ…¥±%Ñ•µÍ	å…Í•%‘m½ÕÑ™¥Ñ…Í”¹¥‘t(€€€€üü½ÕÑ™¥Ñ…Í”¹¥Ñ•µÌ¹µ…À ¡¥Ñ•´¤€ôø€¡ì¹…µ”è¥Ñ•´¹Á±…•¡½±‘•É9…µ”ô¤¤(€½¹ÍĞÕÍ•Í½µÁ…Ñ•Ñ…¥±Q•µÁ±…Ñ”€ô½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•ÉÙ¥•Üœ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•É¹Í¡¥Àœ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€½µµÕÑ”œ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€‘…Ñ”œ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€İ••­•¹œ(€€€ñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€ÑÉ…Ù•°œ((€É•ÑÕÉ¸€(€€€€ñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´´‘í½ÕÑ™¥Ñ…Í”¹¥‘ô‘íÕÍ•Í½µÁ…Ñ•Ñ…¥±Q•µÁ±…Ñ”€ü€œ•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥Àœ€è€œôˆ¥ô‰‘•Ñ…¥°´‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆø(€€€€€€‘íÕÍ•Í½µÁ…Ñ•Ñ…¥±Q•µÁ±…Ñ”(€€€€€€€€ü€ñ¡•…‘•È±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÍÑå±”µ¹½Ñ”µ¡•…‘¥¹œˆøñÀùMQe19=Qğ½Àøñ Ìû¦ÿšB·š&/¢ºÀğ½ Ìøğ½¡•…‘•Èù€(€€€€€€€€è€ñ¡•…‘•ÈøñÀù%Q=HL9=Qğ½Àøñ Ìû’âë’î’æ#¢şgš‚ßšB´ğ½ Ìøğ½¡•…‘•Èùô(€€€€€€ñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µ‘•Ñ…¥°µ¥¹ÑÉ¼ˆø(€€€€€€€€ñÀø‘í‘•Ñ…¥±1½¥Œ¡½ÕÑ™¥Ñ…Í”¥ôğ½Àø(€€€€€€€€‘íÕÍ•Í½µÁ…Ñ•Ñ…¥±Q•µÁ±…Ñ”€ü€ñÍµ…±°ø‘í•áÁ…¹‘•‘AÉ•Ù¥•İ	å%‘m½ÕÑ™¥Ñ…Í”¹¥‘t¹¹½Ñ•Q¥Áôğ½Íµ…±°ù€€è€œô(€€€€€€ğ½‘¥Øø(€€€€€€ñÍ•Ñ¥½¸±…ÍÌô‰•‘¥Ñ½É¥…°µ¥Ñ•µÌˆ…É¥„µ±…‰•°ô‹š‚ã–ş–6W–Nˆø(€€€€€€€€‘í‘•Ñ…¥±%Ñ•µÌ¹µ…À ¡¥Ñ•´°¥¹‘•à¤€ôø€(€€€€€€€€€€ñ‘¥Ø±…ÍÌô‰•‘¥Ñ½É¥…°µ¥Ñ•´€‘í¥¹‘•à€”€È€ü€¥ÌµÉ•Ù•ÉÍ•œ€è€œôˆø(€€€€€€€€€€€€‘í‘•Ñ…¥±%Ñ•µ5•‘¥„¡¥Ñ•´°¥¹‘•à°½ÕÑ™¥Ñ…Í”¥ô(€€€€€€€€€€€€ñ‘¥ØøñÍÁ…¸øÀ‘í¥¹‘•à€¬€Åôğ½ÍÁ…¸øñ Ğø‘í¥Ñ•´¹¹…µ•ôğ½ ĞøñÀø‘í¥Ñ•´¹‘•ÍÉ¥ÁÑ¥½¸€üü€Ÿ’ë’ú/––ºç¾ò?–úšnÿš6‹¾òk¢şg¦3’òk¢¾Óšb;¢şg’îÛ–6W–N–r£šVÓ––_¦ÿšB·’â·j’ösR£¾ò3’î—–>+–>¿’î—š;š‚ßšnÿš6‹ôğ½Àøğ½‘¥Øø(€€€€€€€€€€ğ½‘¥Øù€¤¹©½¥¸ œœ¥ô(€€€€€€ğ½Í•Ñ¥½¸ø(€€€€€€‘í‰Õ‘•Ñ¹‘I•Á±…•µ•¹Ğ¡½ÕÑ™¥Ñ…Í”¥ô(€€€€€€‘í…Í••Ñ…¥±9…Ù¥…Ñ¥½¸¡½ÕÑ™¥Ñ…Í”¥ô(€€€€ğ½‘¥Øù€)ô()™Õ¹Ñ¥½¸Íå¹¥±Ñ•É	ÕÑÑ½¹Ì ¤ì(€™½È€¡½¹ÍĞ‰ÕÑÑ½¸½˜™¥±Ñ•É	ÕÑÑ½¹Ì¤ì(€€€½¹ÍĞ…Ñ¥Ù”€ô‰ÕÑÑ½¸¹‘…Ñ…Í•Ğ¹™¥±Ñ•È€ôôô…Ñ¥Ù•¥±Ñ•È(€€€‰ÕÑÑ½¸¹±…ÍÍ1¥ÍĞ¹Ñ½±” ¥Ìµ…Ñ¥Ù”œ°…Ñ¥Ù”¤(€€€‰ÕÑÑ½¸¹Í•ÑÑÑÉ¥‰ÕÑ” …É¥„µÁÉ•ÍÍ•œ°MÑÉ¥¹œ¡…Ñ¥Ù”¤¤(€ô)ô()™Õ¹Ñ¥½¸É•¹‘•È ¤ì(€½¹ÍĞÙ¥Í¥‰±•…Í•Ì€ô…Ñ¥Ù•¥±Ñ•È€ôôô€…±°œ€ü½ÕÑ™¥Ñ…Í•Ì€è½ÕÑ™¥Ñ…Í•Ì¹™¥±Ñ•È ¡¥Ñ•´¤€ôø¥Ñ•´¹Í•¹”€ôôô…Ñ¥Ù•¥±Ñ•È¤(€½Õ¹Ğ¹Ñ•áÑ½¹Ñ•¹Ğ€ôƒ–öO–&7šbû’è€‘íÙ¥Í¥‰±•…Í•Ì¹±•¹Ñ¡ôƒ’â«š†#’ú-€(€±¥ÍĞ¹¥¹¹•É!Q50€ôÙ¥Í¥‰±•…Í•Ì¹µ…À ¡½ÕÑ™¥Ñ…Í”¤€ôøì(€€€½¹ÍĞ¥ÍM•±•Ñ•€ôÍ•±•Ñ•‘%€ôôô½ÕÑ™¥Ñ…Í”¹¥(€€€½¹ÍĞÍ½ÕÉ•%¹‘•à€ô½ÕÑ™¥Ñ…Í•Ì¹™¥¹‘%¹‘•à ¡¥Ñ•´¤€ôø¥Ñ•´¹¥€ôôô½ÕÑ™¥Ñ…Í”¹¥¤(€€€½¹ÍĞ…Í•9Õµ‰•È€ôÍ½ÕÉ•%¹‘•à€¬€Ä(€€€½¹ÍĞÙ…É¥…¹Ğ€ôl„œ°€ˆœ°€ŒumÍ½ÕÉ•%¹‘•à€”€Ít(€€€½¹ÍĞÍÑ…•Ì€ô½ÕÑ™¥Ñ…Í”¹ÍÕ¥Ñ…‰±•MÑ…•Ì¹µ…À ¡ÍÑ…”¤€ôøÍÑ…•1…‰•±ÍmÍÑ…•t¤¹©½¥¸ Ÿœ¤((€€€É•ÑÕÉ¸€(€€€€€€ñ…ÉÑ¥±”±…ÍÌô‰…Í”µÍÑ½Éä…Í”µÍÑ½Éä´´‘íÙ…É¥…¹Ñô…Í”µÍÑ½Éä´µ¥¹‘•à´‘í…Í•9Õµ‰•Éôˆ¥ô‰…Í”´‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆø(€€€€€€€€ñ‘¥Ø±…ÍÌô‰…Í”µÍÑ½Éäµµ•‘¥„ˆø‘í…Í•%µ…”¡½ÕÑ™¥Ñ…Í”¥ôğ½‘¥Øø(€€€€€€€€ñ‘¥Ø±…ÍÌô‰…Í”µÍÑ½Éäµ½Áäˆø(€€€€€€€€€€‘í¥ÍM•±•Ñ•€üÁ•ÉÍ½¹…±¥é•‘	…¹¹•È¡½ÕÑ™¥Ñ…Í”¤€è€œô(€€€€€€€€€€‘í¥ÍM•±•Ñ•€ü•áÁ…¹‘•‘AÉ•Ù¥•Ü¡½ÕÑ™¥Ñ…Í”¤€è€(€€€€€€€€€€€€ñÀ±…ÍÌô‰½¹Ñ•¹ĞµÍÑ…ÑÕÌˆø‘íMÑÉ¥¹œ¡…Í•9Õµ‰•È¤¹Á…‘MÑ…ÉĞ È°€œÀœ¥ô€¼€‘íÍ•¹•1…‰•±Ím½ÕÑ™¥Ñ…Í”¹Í•¹•uôğ½Àø(€€€€€€€€€€€€ñ Èø‘í½ÕÑ™¥Ñ…Í”¹Ñ¥Ñ±•ôğ½ Èø(€€€€€€€€€€€€ñÀû’âè‘íÍ•¹•1…‰•±Ím½ÕÑ™¥Ñ…Í”¹Í•¹•u÷––’j’â––\‘íÍÑå±•1…‰•±Ím½ÕÑ™¥Ñ…Í”¹ÁÉ¥µ…ÉåMÑå±•u÷šZç–BG¦ÿšB·¾ò3¦–B ‘íÍÑ…•Í÷–>¢‘í½ÕÑ™¥Ñ…Í”¹ÍÕµµ…Éåôğ½Àùô(€€€€€€€€€€€€ñ‰ÕÑÑ½¸±…ÍÌô‰•‘¥Ñ½É¥…°µ±¥¹¬ˆÑåÁ”ô‰‰ÕÑÑ½¸ˆ‘…Ñ„µ…Í”µÑ½±”ôˆ‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆ…É¥„µ•áÁ…¹‘•ôˆ‘í¥ÍM•±•Ñ•‘ôˆ…É¥„µ½¹ÑÉ½±Ìô‰‘•Ñ…¥°´‘í½ÕÑ™¥Ñ…Í”¹¥‘ôˆø‘í½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•ÉÙ¥•Üœñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€¥¹Ñ•É¹Í¡¥Àœñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€½µµÕÑ”œñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€‘…Ñ”œñğ½ÕÑ™¥Ñ…Í”¹¥€ôôô€ÑÉ…Ù•°œ(€€€€€€€€€€€€€€ü€¡¥ÍM•±•Ñ•€ü€ŸšRÛ¢Öß¢¾›š€ñÍÁ…¸ûŠDğ½ÍÁ…¸øœ€è€Ÿš~—r/¢¾›š€ñÍÁ…¸ûŠLğ½ÍÁ…¸øœ¤(€€€€€€€€€€€€€€è€¡¥ÍM•±•Ñ•€ü€ŸšRÛ¢ÖßšB·¦4€ñÍÁ…¸ûŠDğ½ÍÁ…¸øœ€è€Ÿš~—r/šB·¦4€ñÍÁ…¸ûŠHğ½ÍÁ…¸øœ¥ôğ½‰ÕÑÑ½¸ø(€€€€€€€€ğ½‘¥Øø(€€€€€€€€‘í¥ÍM•±•Ñ•€ü•‘¥Ñ½É¥…±•Ñ…¥°¡½ÕÑ™¥Ñ…Í”¤€è€œô(€€€€€€ğ½…ÉÑ¥±”ù€(€ô¤¹©½¥¸ œœ¤)ô()™½È€¡½¹ÍĞ‰ÕÑÑ½¸½˜™¥±Ñ•É	ÕÑÑ½¹Ì¤ì(€‰ÕÑÑ½¸¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøì(€€€…Ñ¥Ù•¥±Ñ•È€ô‰ÕÑÑ½¸¹‘…Ñ…Í•Ğ¹™¥±Ñ•È(€€€Í•±•Ñ•‘%€ô¹Õ±°(€€€Á•ÉÍ½¹…±¥é…Ñ¥½¸€ô¹Õ±°(€€€¡¥ÍÑ½Éä¹É•Á±…•MÑ…Ñ”¡¹Õ±°°€œœ°…Í•A…•A…Ñ ¤(€€€Íå¹¥±Ñ•É	ÕÑÑ½¹Ì ¤(€€€É•¹‘•È ¤(€ô¤)ô()±•ĞÁÉ½‘ÕÑA¥­•È€ô¹Õ±°)±•ĞÁÉ½‘ÕÑA¥­•É±½Í•Q¥µ•È€ô¹Õ±°)±•Ğ‰½‘å=Ù•É™±½İ	•™½É•A¥­•È€ô€œœ()™Õ¹Ñ¥½¸±½Í•AÉ½‘ÕÑA¥­•È ¤ì(€¥˜€ …ÁÉ½‘ÕÑA¥­•È¤É•ÑÕÉ¸(€ÁÉ½‘ÕÑA¥­•È¹±…ÍÍ1¥ÍĞ¹É•µ½Ù” ¥Ìµ½Á•¸œ¤(€ÁÉ½‘ÕÑA¥­•È¹±…ÍÍ1¥ÍĞ¹…‘ ¥Ìµ±½Í¥¹œœ¤(€‘½Õµ•¹Ğ¹‰½‘ä¹ÍÑå±”¹½Ù•É™±½Ü€ô‰½‘å=Ù•É™±½İ	•™½É•A¥­•È(€±•…ÉQ¥µ•½ÕĞ¡ÁÉ½‘ÕÑA¥­•É±½Í•Q¥µ•È¤(€ÁÉ½‘ÕÑA¥­•É±½Í•Q¥µ•È€ôİ¥¹‘½Ü¹Í•ÑQ¥µ•½ÕĞ  ¤€ôøì(€€€ÁÉ½‘ÕÑA¥­•Èü¹É•µ½Ù” ¤(€€€ÁÉ½‘ÕÑA¥­•È€ô¹Õ±°(€ô°€ÈÀÀ¤)ô()™Õ¹Ñ¥½¸½Á•¹AÉ½‘ÕÑA¥­•È¡¥Ñ•´¤ì(€¥˜€ …İ¥¹‘½Ü¹µ…Ñ¡5•‘¥„ œ¡µ¥¸µİ¥‘Ñ è€ÜÀÅÁà¤œ¤¹µ…Ñ¡•Ìñğ€…¥Ñ•´ü¹ÁÉ½‘ÕÑ1¥¹­Ìñğ¥Ñ•´¹ÁÉ½‘ÕÑ1¥¹­Ì¹±•¹Ñ €ğ€È¤É•ÑÕÉ¸(€±½Í•AÉ½‘ÕÑA¥­•È ¤(€±•…ÉQ¥µ•½ÕĞ¡ÁÉ½‘ÕÑA¥­•É±½Í•Q¥µ•È¤((€ÁÉ½‘ÕÑA¥­•È€ô‘½Õµ•¹Ğ¹É•…Ñ•±•µ•¹Ğ ‘¥Øœ¤(€ÁÉ½‘ÕÑA¥­•È¹±…ÍÍ9…µ”€ô€¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èœ(€ÁÉ½‘ÕÑA¥­•È¹Í•ÑÑÑÉ¥‰ÕÑ” É½±”œ°€ÁÉ•Í•¹Ñ…Ñ¥½¸œ¤(€ÁÉ½‘ÕÑA¥­•È¹¥¹¹•É!Q50€ô€(€€€€ñ‘¥Ø±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ‰…­‘É½Àˆ‘…Ñ„µÁÉ½‘ÕĞµÁ¥­•Èµ±½Í”øğ½‘¥Øø(€€€€ñÍ•Ñ¥½¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ‘¥…±½œˆÉ½±”ô‰‘¥…±½œˆ…É¥„µµ½‘…°ô‰ÑÉÕ”ˆ…É¥„µ±…‰•±±•‘‰äô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•ÈµÑ¥Ñ±”ˆø(€€€€€€ñ‰ÕÑÑ½¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ±½Í”ˆÑåÁ”ô‰‰ÕÑÑ½¸ˆ‘…Ñ„µÁÉ½‘ÕĞµÁ¥­•Èµ±½Í”…É¥„µ±…‰•°ô‹–Ï¦^´ˆû\ğ½‰ÕÑÑ½¸ø(€€€€€€ñÀ±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ­¥­•ÈˆùM!=@Q!1==,ğ½Àø(€€€€€€ñ Ì¥ô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•ÈµÑ¥Ñ±”ˆû¦'š.§šÏr/j–6W–Nğ½ Ìø(€€€€€€ñ‘¥Ø±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ½ÁÑ¥½¹Ìˆø(€€€€€€€€‘í¥Ñ•´¹ÁÉ½‘ÕÑ1¥¹­Ì¹µ…À ¡ÁÉ½‘ÕĞ°¥¹‘•à¤€ôø€(€€€€€€€€€€ñ„±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ½ÁÑ¥½¸ˆ¡É•˜ôˆ‘íÁÉ½‘ÕĞ¹ÕÉ±ôˆÑ…É•Ğô‰}‰±…¹¬ˆÉ•°ô‰¹½½Á•¹•È¹½É•™•ÉÉ•Èˆø(€€€€€€€€€€€€ñÍÁ…¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ…Ñ•½Éäˆø‘íÁÉ½‘ÕĞ¹ÑåÁ”ü¹Ñ½UÁÁ•É…Í” ¤€üü€%Q4ôğ½ÍÁ…¸ø(€€€€€€€€€€€€‘íÁÉ½‘ÕĞ¹¥µ…•UÉ°(€€€€€€€€€€€€€€ü€ñÍÁ…¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµµ•‘¥„ˆøñ¥µœÍÉŒôˆ‘íÁÉ½‘ÕĞ¹¥µ…•UÉ±ôˆ…±Ğôˆ‘íÁÉ½‘ÕĞ¹±…‰•±ôˆ€¼øğ½ÍÁ…¸ù€(€€€€€€€€€€€€€€è€ñÍÁ…¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ™…±±‰…¬ˆ…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆøñÍµ…±°ø‘íÁÉ½‘ÕĞ¹ÑåÁ”ü¹Ñ½UÁÁ•É…Í” ¤€üü€%Q4ôğ½Íµ…±°øğ½ÍÁ…¸ùô(€€€€€€€€€€€€ñÍÁ…¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ½Áäˆø(€€€€€€€€€€€€€€ñÍÑÉ½¹œø‘íÁÉ½‘ÕĞ¹±…‰•±ôğ½ÍÑÉ½¹œø(€€€€€€€€€€€€€€ñÍÁ…¸±…ÍÌô‰¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ±¥¹¬ˆûš~—r/nã’òóš²ø€ñ¤…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆûŠ\ğ½¤øğ½ÍÁ…¸ø(€€€€€€€€€€€€ğ½ÍÁ…¸ø(€€€€€€€€€€ğ½„ù€¤¹©½¥¸ œœ¥ô(€€€€€€ğ½‘¥Øø(€€€€ğ½Í•Ñ¥½¸ù€((€‰½‘å=Ù•É™±½İ	•™½É•A¥­•È€ô‘½Õµ•¹Ğ¹‰½‘ä¹ÍÑå±”¹½Ù•É™±½Ü(€‘½Õµ•¹Ğ¹‰½‘ä¹ÍÑå±”¹½Ù•É™±½Ü€ô€¡¥‘‘•¸œ(€‘½Õµ•¹Ğ¹‰½‘ä¹…ÁÁ•¹¡ÁÉ½‘ÕÑA¥­•È¤(€É•ÅÕ•ÍÑ¹¥µ…Ñ¥½¹É…µ”  ¤€ôøì(€€€ÁÉ½‘ÕÑA¥­•Èü¹±…ÍÍ1¥ÍĞ¹…‘ ¥Ìµ½Á•¸œ¤(€€€ÁÉ½‘ÕÑA¥­•Èü¹ÅÕ•ÉåM•±•Ñ½È œ¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÁ¥­•Èµ±½Í”œ¤ü¹™½ÕÌ ¤(€ô¤)ô()‘½Õµ•¹Ğ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€¡•Ù•¹Ğ¤€ôøì(€¥˜€¡•Ù•¹Ğ¹Ñ…É•Ğ¹±½Í•ÍĞ m‘…Ñ„µÁÉ½‘ÕĞµÁ¥­•Èµ±½Í•tœ¤¤±½Í•AÉ½‘ÕÑA¥­•È ¤)ô¤()‘½Õµ•¹Ğ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ­•å‘½İ¸œ°€¡•Ù•¹Ğ¤€ôøì(€¥˜€¡•Ù•¹Ğ¹­•ä€ôôô€Í…Á”œ€˜˜ÁÉ½‘ÕÑA¥­•È¤±½Í•AÉ½‘ÕÑA¥­•È ¤)ô¤()±¥ÍĞ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€¡•Ù•¹Ğ¤€ôøì(€½¹ÍĞÁÉ½‘ÕÑÑ¥½¸€ô•Ù•¹Ğ¹Ñ…É•Ğ¹±½Í•ÍĞ œ¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕĞµÑÉ¥•Èœ¤(€¥˜€¡ÁÉ½‘ÕÑÑ¥½¸€˜˜€…İ¥¹‘½Ü¹µ…Ñ¡5•‘¥„ œ¡µ¥¸µİ¥‘Ñ è€ÜÀÅÁà¤œ¤¹µ…Ñ¡•Ì¤ì(€€€•Ù•¹Ğ¹ÁÉ•Ù•¹Ñ•™…Õ±Ğ ¤(€€€É•ÑÕÉ¸(€ô((€½¹ÍĞÁÉ½‘ÕÑQÉ¥•È€ô•Ù•¹Ğ¹Ñ…É•Ğ¹±½Í•ÍĞ m‘…Ñ„µÁÉ½‘ÕĞµÁ¥­•Étœ¤(€¥˜€¡ÁÉ½‘ÕÑQÉ¥•È¤ì(€€€•Ù•¹Ğ¹ÁÉ•Ù•¹Ñ•™…Õ±Ğ ¤(€€€½¹ÍĞÁÉ½‘ÕÑ…Í•%€ôÁÉ½‘ÕÑQÉ¥•È¹‘…Ñ…Í•Ğ¹ÁÉ½‘ÕÑ…Í”ñğ€¥¹Ñ•É¹Í¡¥Àœ(€€€½¹ÍĞÁÉ½‘ÕÑ%Ñ•µÌ€ô‘•Ñ…¥±%Ñ•µÍ	å…Í•%‘mÁÉ½‘ÕÑ…Í•%‘t(€€€½Á•¹AÉ½‘ÕÑA¥­•È¡ÁÉ½‘ÕÑ%Ñ•µÌü¹m9Õµ‰•È¡ÁÉ½‘ÕÑQÉ¥•È¹‘…Ñ…Í•Ğ¹ÁÉ½‘ÕÑA¥­•È¥t¤(€€€É•ÑÕÉ¸(€ô((€½¹ÍĞ‰Õ‘•ÑQ½±”€ô•Ù•¹Ğ¹Ñ…É•Ğ¹±½Í•ÍĞ m‘…Ñ„µ‰Õ‘•ĞµÑ½±•tœ¤(€¥˜€¡‰Õ‘•ÑQ½±”¤ì(€€€½¹ÍĞÁ…¹•°€ô‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å%¡‰Õ‘•ÑQ½±”¹•ÑÑÑÉ¥‰ÕÑ” …É¥„µ½¹ÑÉ½±Ìœ¤¤(€€€½¹ÍĞ¥Í=Á•¸€ô‰Õ‘•ÑQ½±”¹•ÑÑÑÉ¥‰ÕÑ” …É¥„µ•áÁ…¹‘•œ¤€ôôô€ÑÉÕ”œ(€€€‰Õ‘•ÑQ½±”¹Í•ÑÑÑÉ¥‰ÕÑ” …É¥„µ•áÁ…¹‘•œ°MÑÉ¥¹œ …¥Í=Á•¸¤¤(€€€‰Õ‘•ÑQ½±”¹¥¹¹•É!Q50€ô¥Í=Á•¸(€€€€€€ü€Ÿ¦Šº_šr'¦fC¾òš~—r/šnÿš6‹šw¢Ş¼€ñÍÁ…¸…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆûŠLğ½ÍÁ…¸øœ(€€€€€€è€ŸšRÛ¢Öß¦Šº_’â;šnÿš6ˆ€ñÍÁ…¸…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆûŠDğ½ÍÁ…¸øœ(€€€Á…¹•°ü¹±…ÍÍ1¥ÍĞ¹Ñ½±” ¥Ìµ½Á•¸œ°€…¥Í=Á•¸¤(€€€Á…¹•°ü¹Í•ÑÑÑÉ¥‰ÕÑ” …É¥„µ¡¥‘‘•¸œ°MÑÉ¥¹œ¡¥Í=Á•¸¤¤(€€€É•ÑÕÉ¸(€ô((€½¹ÍĞ‰ÕÑÑ½¸€ô•Ù•¹Ğ¹Ñ…É•Ğ¹±½Í•ÍĞ m‘…Ñ„µ…Í”µÑ½±•tœ¤(€¥˜€ …‰ÕÑÑ½¸¤É•ÑÕÉ¸(€Í•±•Ñ•‘%€ôÍ•±•Ñ•‘%€ôôô‰ÕÑÑ½¸¹‘…Ñ…Í•Ğ¹…Í•Q½±”€ü¹Õ±°€è‰ÕÑÑ½¸¹‘…Ñ…Í•Ğ¹…Í•Q½±”(€Á•ÉÍ½¹…±¥é…Ñ¥½¸€ô¹Õ±°(€¡¥ÍÑ½Éä¹É•Á±…•MÑ…Ñ”¡¹Õ±°°€œœ°Í•±•Ñ•‘%€ü€‘í…Í•A…•A…Ñ¡ôı…Í”ô‘íÍ•±•Ñ•‘%‘õ€€è…Í•A…•A…Ñ ¤(€É•¹‘•È ¤(€¥˜€¡Í•±•Ñ•‘%¤‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å%¡…Í”´‘íÍ•±•Ñ•‘%‘õ€¤ü¹ÍÉ½±±%¹Ñ½Y¥•Ü¡ì‰•¡…Ù¥½Èè€Íµ½½Ñ œ°‰±½¬è€ÍÑ…ÉĞœô¤)ô¤()Íå¹¥±Ñ•É	ÕÑÑ½¹Ì ¤)É•¹‘•È ¤)¥˜€¡Í•±•Ñ•‘%¤É•ÅÕ•ÍÑ¹¥µ…Ñ¥½¹É…µ”  ¤€ôø‘½Õµ•¹Ğ¹•Ñ±•µ•¹Ñ	å%¡…Í”´‘íÍ•±•Ñ•‘%‘õ€¤ü¹ÍÉ½±±%¹Ñ½Y¥•Ü¡ì‰±½¬è€ÍÑ…ÉĞœô¤¤(
+  && validStages.has(requestedStage)
+  && requestedScene === sceneLabels[caseFromUrl.scene]
+  && validStyles.has(requestedStyle)
+  && validBudgets.has(requestedBudget)
+  ? { caseId: caseFromUrl.id, height: requestedHeight, stage: requestedStage, scene: requestedScene, style: requestedStyle, budget: requestedBudget }
+  : null
+let activeFilter = caseFromUrl?.scene ?? filterSceneFromUrl ?? 'all'
+let selectedId = caseFromUrl?.id ?? null
+
+function personalizedBanner(outfitCase) {
+  if (!personalization || personalization.caseId !== outfitCase.id) return ''
+  return `
+    <aside class="personalized-match-banner">
+      æ ¹æ®ä½ çš„é€‰æ‹©ï¼š<strong>${personalization.stage}</strong> Â· <strong>${personalization.scene}</strong> Â· <strong>${personalization.style}</strong> Â· <strong>${personalization.budget}</strong>
+    </aside>`
+}
+
+const expandedPreviewById = {
+  interview: {
+    deck: 'é¢è¯•è¿™å¤©ï¼Œç©¿å¾—ç¨³ä¸€ç‚¹ã€‚',
+    tags: ['æ±‚èŒè€…', 'å¹²å‡€', '500â€”1000å…ƒ'],
+    logic: 'æ·±æ£•æ¯”çº¯é»‘æŸ”å’Œï¼Œé…ä¸Šç±³ç™½é˜”è…¿è£¤ï¼Œæ­£å¼æ„Ÿæ›´è½»ä¸€äº›ã€‚',
+    noteTip: 'å†…æ­æ”¶è¿›è£¤è…°ï¼Œéœ²å‡ºé«˜è…°ä½ç½®ï¼Œé•¿å¤–å¥—ä¹Ÿä¸ä¼šå‹ä½æ¯”ä¾‹ã€‚',
+  },
+  internship: {
+    deck: 'ç¬¬ä¸€å¤©ä¸Šç­ï¼Œç©¿å¾—æ¸…çˆ½ä¸€ç‚¹ã€‚',
+    tags: ['å®ä¹ ç”Ÿ', 'åˆ©è½', '500â€”800å…ƒ'],
+    logic: 'å¥¶æ²¹é»„è¡¬è¡«é…æ·±ç°è¥¿è£…è£¤ï¼Œç®€å•ã€å¹²å‡€ï¼Œä¹Ÿä¸ä¼šæ˜¾å¾—å¤ªæ‹˜è°¨ã€‚',
+    noteTip: 'ä¸Šè¡£æ”¶è¿›è£¤è…°ï¼Œè…°çº¿ä¼šæ›´æ¸…æ¥šã€‚',
+  },
+  commute: {
+    deck: 'ç™½è¡¬è¡«å’Œç‰›ä»”è£¤ï¼Œä¹Ÿèƒ½è®©ä¸Šç­è¿™ä»¶äº‹æ²¡é‚£ä¹ˆä¸¥è‚ƒã€‚',
+    tags: ['åˆšå…¥èŒ', 'ç®€çº¦', '500â€“800å…ƒ'],
+    logic: 'ç™½è¡¬è¡«é…æµ…è“ç‰›ä»”è£¤ï¼Œå¹²å‡€ï¼Œä½†ä¸ä¼šå¤ªåƒå­¦ç”Ÿã€‚',
+    noteTip: 'è¡¬è¡«æ”¶è¿›è£¤è…°ï¼Œè£¤è„šåˆ«å †åœ¨é‹é¢ï¼Œæ¯”ä¾‹ä¼šæ›´æ¸…æ¥šã€‚',
+  },
+  date: {
+    deck: 'ç™½è‰²è•¾ä¸é‡ä¸Šé…’çº¢è‰²ï¼Œè¿å¿ƒåŠ¨éƒ½æœ‰äº†é¢œè‰²ã€‚',
+    tags: ['çº¦ä¼š', 'æ¸©æŸ”', '300â€“900å…ƒ'],
+    logic: 'ç™½è‰²è•¾ä¸ä¸ç¼é¢æ”¾åœ¨ä¸€èµ·ï¼Œæ¸©æŸ”é‡Œå¸¦ç€ä¸€ç‚¹å…‰æ³½æ„Ÿã€‚',
+    noteTip: 'é…’çº¢è‰²é‹åŒ…æ”¶åœ¨ä¸‹åŠèº«ï¼Œè®©ä¸€èº«ç™½æœ‰äº†è½ç‚¹ã€‚',
+  },
+  weekend: {
+    deck: 'æ‹åŒ…å‡ºé—¨çš„é‚£ä¸€åˆ»ï¼Œæ‰ç®—çœŸæ­£æ”¾å‡ã€‚',
+    tags: ['ä¼‘é—²', 'æ¸…çˆ½', '200â€“500å…ƒ'],
+    logic: 'è½»è–„é’ˆç»‡å åœ¨åŠå¸¦å¤–ï¼Œä¿ç•™è‚©é¢ˆçº¿æ¡ï¼Œä¹Ÿè®©ä¸ŠåŠèº«æ›´æœ‰è½®å»“ã€‚',
+    noteTip: 'çŸ­ä¸Šè¡£åœåœ¨è…°çº¿é™„è¿‘ï¼Œé«˜è…°çŸ­è£¤éœ²å‡ºæ›´å¤šè…¿éƒ¨çº¿æ¡ï¼Œå°ä¸ªå­ç©¿èµ·æ¥æ›´åˆ©è½ã€‚',
+  },
+  travel: {
+    deck: 'ç©¿ä¸Šå–œæ¬¢çš„ä¸€èº«ï¼Œå¿«ä¹å°±ä¸ç”¨ç­‰åˆ°ç›®çš„åœ°ã€‚',
+    tags: ['æ—…è¡Œ', 'æ¾å¼›', '400â€“800å…ƒ'],
+    logic: 'ç™½è‰²å’Œç¢èŠ±æ”¾åœ¨ä¸€èµ·ï¼Œå¹²å‡€ä½†ä¸æ— èŠã€‚',
+    noteTip: 'çº¢è‰²åªç•™åœ¨åŒ…å’Œé‹ä¸Šï¼Œç‚¹åˆ°ä¸ºæ­¢ï¼Œå’Œç¢èŠ±äº’ç›¸å‘¼åº”ã€‚',
+  },
+}
+
+function expandedPreview(outfitCase) {
+  const preview = expandedPreviewById[outfitCase.id]
+  if (!preview) {
+    return `
+      <div class="case-expanded-editorial">
+        <p class="case-expanded-eyebrow">SCENE EDIT / ç¤ºä¾‹å†…å®¹</p>
+        <h2>${outfitCase.title}</h2>
+        <p class="case-expanded-deck">è¿™ä¸€å¥—æ­£å¼ç©¿æ­å†…å®¹æ­£åœ¨æ•´ç†ä¸­ã€‚</p>
+        <p class="case-expanded-body">åç»­å°†åœ¨è¿™é‡Œè¡¥å……å®Œæ•´ Lookã€æ­é…é‡ç‚¹å’Œé€‚ç”¨åœºæ™¯ã€‚</p>
+      </div>`
+  }
+
+  if (outfitCase.id === 'interview' || outfitCase.id === 'internship' || outfitCase.id === 'commute' || outfitCase.id === 'date' || outfitCase.id === 'weekend' || outfitCase.id === 'travel') {
+    return `
+      <div class="case-expanded-editorial case-expanded-editorial--internship">
+        <h2>${outfitCase.title}</h2>
+        <p class="case-expanded-deck">${preview.deck}</p>
+        <div class="case-expanded-tags" aria-label="ç©¿æ­æ ‡ç­¾">
+          ${preview.tags.map((tag) => `<span>${tag}</span>`).join('')}
+        </div>
+      </div>`
+  }
+
+  return `
+    <div class="case-expanded-editorial">
+      <p class="case-expanded-eyebrow">${preview.eyebrow}</p>
+      <h2>${outfitCase.title}</h2>
+      <p class="case-expanded-deck">${preview.deck}</p>
+      <p class="case-expanded-body">${preview.note}</p>
+      <div class="case-look-index">
+        <span>LOOK</span>
+        <p>${preview.items.map((item) => `<span>${item}</span>`).join('<i aria-hidden="true">Â·</i>')}</p>
+      </div>
+      <p class="case-expanded-scenes"><span>é€‚åˆåœºæ™¯</span>${preview.scenes}</p>
+    </div>`
+}
+
+function detailLogic(outfitCase) {
+  return expandedPreviewById[outfitCase.id]?.logic
+    ?? 'ç¤ºä¾‹å†…å®¹ï¼å¾…æ›¿æ¢ï¼šè¿™é‡Œä¼šç”¨ä¸¤åˆ°ä¸‰è¡Œè¯´æ˜è‰²å½©å…³ç³»ã€æ•´ä½“è½®å»“ä¸å°ä¸ªå­æ¯”ä¾‹é‡ç‚¹ï¼Œä¸é‡å¤å±•ç¤ºå®Œæ•´ Look ä¸»å›¾ã€‚'
+}
+
+function budgetAndReplacement(outfitCase) {
+  if (outfitCase.id === 'interview') {
+    return `
+      <aside class="internship-replacement-hint" aria-label="æ›¿æ¢æç¤º">
+        <strong>æ¢ç€ç©¿</strong>
+        <span>é’ˆç»‡ä¸Šè£…å¯ä»¥æ¢æˆç±³ç™½è¡¬è¡«ï¼Œé‹åŒ…å…ˆç”¨å·²æœ‰çš„æ·±è‰²æ¬¾ã€‚</span>
+      </aside>`
+  }
+
+  if (outfitCase.id === 'internship') {
+    return `
+      <aside class="internship-replacement-hint" aria-label="æ›¿æ¢æç¤º">
+        <strong>æ¢ç€ç©¿</strong>
+        <span>é’ˆç»‡è¡«å’Œé‹åŒ…ï¼Œå¯ä»¥å…ˆä»è¡£æ©±é‡Œæ‰¾ç›¸è¿‘æ¬¾ã€‚</span>
+      </aside>`
+  }
+
+  if (outfitCase.id === 'commute') {
+    return `
+      <aside class="internship-replacement-hint" aria-label="æ›¿æ¢æç¤º">
+        <strong>æ¢ç€ç©¿</strong>
+        <span>é‹åŒ…ä¸ç”¨å®Œå…¨æˆå¥—ï¼Œé¢œè‰²æ¥è¿‘å°±å¤Ÿäº†ã€‚</span>
+      </aside>`
+  }
+
+  if (outfitCase.id === 'date') {
+    return `
+      <aside class="internship-replacement-hint" aria-label="æ›¿æ¢æç¤º">
+        <strong>æ¢ç€ç©¿</strong>
+        <span>é‹åŒ…ä¸ç”¨éƒ½æ¢æˆé…’çº¢è‰²ï¼Œç•™ä¸€ä»¶åšç‚¹ç¼€å°±å¤Ÿäº†ã€‚</span>
+      </aside>`
+  }
+
+  if (outfitCase.id === 'weekend') {
+    return `
+      <aside class="internship-replacement-hint" aria-label="æ›¿æ¢æç¤º">
+        <strong>æ¢ç€ç©¿</strong>
+        <span>é’ˆç»‡è¡«ä¹Ÿå¯ä»¥æŠ«åœ¨è‚©ä¸Šï¼Œç™½è‰²åŠå¸¦å’ŒçŸ­è£¤å•ç©¿ä¾ç„¶å®Œæ•´ã€‚</span>
+      </aside>`
+  }
+
+  if (outfitCase.id === 'travel') {
+    return `
+      <aside class="internship-replacement-hint" aria-label="æ›¿æ¢æç¤º">
+        <strong>æ¢ç€ç©¿</strong>
+        <span>æŠŠç¢èŠ±åŠè£™æ¢æˆç™½è‰²é˜”è…¿è£¤ï¼Œçº¢è‰²åŒ…æ¢æˆæ·±è‰²ï¼Œè¿™å¥—å°±èƒ½ç©¿å›æ—¥å¸¸ã€‚</span>
+      </aside>`
+  }
+
+  const preview = expandedPreviewById[outfitCase.id]
+  const budget = preview?.budget ?? 'ç¤ºä¾‹å†…å®¹ï¼å¾…æ›¿æ¢ï¼šåç»­è¡¥å……æœ¬æ¬¡æ–°å¢è´­ç½®é¢„ç®—ï¼Œå¹¶ä¼˜å…ˆè¯´æ˜å¯ä½¿ç”¨çš„è¡£æ©±å·²æœ‰åŸºç¡€æ¬¾ã€‚'
+  const replacements = preview?.replacements ?? ['ç¤ºä¾‹å†…å®¹ï¼å¾…æ›¿æ¢ï¼šåç»­è¡¥å……åŒç»“æ„çš„æ›¿æ¢å•å“ã€‚']
+  const principle = preview?.principle ?? 'æ›¿æ¢æ—¶ä¿ç•™åŸæ–¹æ¡ˆçš„æ¯”ä¾‹ç»“æ„ï¼Œæ­£å¼å†…å®¹å¾…è¡¥å……ã€‚'
+
+  return `
+    <footer class="editorial-detail-footer">
+      <button class="editorial-budget-toggle" type="button" data-budget-toggle aria-expanded="false" aria-controls="budget-${outfitCase.id}">
+        é¢„ç®—æœ‰é™ï¼ŸæŸ¥çœ‹æ›¿æ¢æ€è·¯ <span aria-hidden="true">â†“</span>
+      </button>
+      <div class="editorial-budget-collapse" id="budget-${outfitCase.id}" data-budget-panel aria-hidden="true">
+        <div class="editorial-budget-inner">
+          <header><p>BUDGET & OPTIONS</p><h4>é¢„ç®—ä¸æ›¿æ¢</h4></header>
+          <div class="editorial-budget-grid">
+            <section><h5>é¢„ç®—å»ºè®®</h5><p class="editorial-budget-copy">${budget}</p></section>
+            <section><h5>æ›¿æ¢æ€è·¯</h5><div class="editorial-replacement-list">${replacements.map((item) => `<p>${item}</p>`).join('')}</div></section>
+          </div>
+          <p class="editorial-replace-principle">${principle}</p>
+          <small>å†…å®¹ä¸ºæ’ç‰ˆç¤ºä¾‹ï¼Œå¾…æ­£å¼é€‰å“åæ›¿æ¢ã€‚</small>
+        </div>
+      </div>
+    </footer>`
+}
+
+function caseDetailNavigation(outfitCase) {
+  if (outfitCase.id === 'interview') {
+    return `
+      <nav class="case-detail-navigation" aria-label="ç›¸é‚»ç©¿æ­">
+        <a href="${casePagePath}">â† è¿”å›å…¨éƒ¨ç©¿æ­</a>
+        <a href="${casePagePath}?case=internship">ä¸‹ä¸€å¥— å®ä¹ ç¬¬ä¸€å¤©ç©¿æ­ â†’</a>
+      </nav>`
+  }
+
+  if (outfitCase.id === 'internship') {
+    return `
+      <nav class="case-detail-navigation" aria-label="ç›¸é‚»ç©¿æ­">
+        <a href="${casePagePath}?case=interview">â† ä¸Šä¸€å¥— é¢è¯•ç©¿æ­</a>
+        <a href="${casePagePath}?case=commute">ä¸‹ä¸€å¥— æ—¥å¸¸é€šå‹¤ç©¿æ­ â†’</a>
+      </nav>`
+  }
+
+  if (outfitCase.id === 'commute') {
+    return `
+      <nav class="case-detail-navigation" aria-label="ç›¸é‚»ç©¿æ­">
+        <a href="${casePagePath}?case=internship">â† ä¸Šä¸€å¥— å®ä¹ ç¬¬ä¸€å¤©ç©¿æ­</a>
+        <a href="${casePagePath}?case=date">ä¸‹ä¸€å¥— çº¦ä¼šç©¿æ­ â†’</a>
+      </nav>`
+  }
+
+  if (outfitCase.id === 'date') {
+    return `
+      <nav class="case-detail-navigation" aria-label="ç›¸é‚»ç©¿æ­">
+        <a href="${casePagePath}?case=commute">â† ä¸Šä¸€å¥— æ—¥å¸¸é€šå‹¤ç©¿æ­</a>
+        <a href="${casePagePath}?case=weekend">ä¸‹ä¸€å¥— å‘¨æœ«å‡ºè¡Œç©¿æ­ â†’</a>
+      </nav>`
+  }
+
+  if (outfitCase.id === 'weekend') {
+    return `
+      <nav class="case-detail-navigation" aria-label="ç›¸é‚»ç©¿æ­">
+        <a href="${casePagePath}?case=date">â† ä¸Šä¸€å¥— çº¦ä¼šç©¿æ­</a>
+        <a href="${casePagePath}?case=travel">ä¸‹ä¸€å¥— æ—…è¡Œç©¿æ­ â†’</a>
+      </nav>`
+  }
+
+  if (outfitCase.id === 'travel') {
+    return `
+      <nav class="case-detail-navigation" aria-label="ç›¸é‚»ç©¿æ­">
+        <a href="${casePagePath}?case=weekend">â† ä¸Šä¸€å¥— å‘¨æœ«å‡ºè¡Œç©¿æ­</a>
+        <a href="${casePagePath}">è¿”å›å…¨éƒ¨ç©¿æ­ â†’</a>
+      </nav>`
+  }
+
+  return ''
+}
+
+function detailItemMedia(item, index, outfitCase) {
+  if (!item.image) return imagePlaceholder('å•å“å›¾ç‰‡å ä½')
+
+  const mediaClass = item.mediaClass ? ` ${item.mediaClass}` : ''
+  const productLinks = outfitCase.id === 'interview'
+    || outfitCase.id === 'internship'
+    || outfitCase.id === 'commute'
+    || outfitCase.id === 'date'
+    || outfitCase.id === 'weekend'
+    || outfitCase.id === 'travel'
+    ? item.productLinks
+    : null
+  if (!productLinks?.length) {
+    return `<figure class="editorial-item-media${mediaClass}"><img src="${item.image}" alt="${item.alt}" /></figure>`
+  }
+
+  const overlayLabel = productLinks.length > 1 ? 'æŸ¥çœ‹ç›¸ä¼¼å•å“' : productLinks[0].label
+  const triggerAttributes = productLinks.length === 1
+    ? `href="${productLinks[0].url}" target="_blank" rel="noopener noreferrer"`
+    : `href="#" data-product-picker="${index}" data-product-case="${outfitCase.id}" aria-haspopup="dialog"`
+
+  return `
+    <figure class="editorial-item-media${mediaClass} internship-product-media">
+      <a class="internship-product-trigger" ${triggerAttributes} aria-label="${overlayLabel}ï¼š${item.name}">
+        <img src="${item.image}" alt="${item.alt}" />
+        <span class="internship-product-overlay">${overlayLabel} <span aria-hidden="true">â†—</span></span>
+      </a>
+    </figure>`
+}
+
+function editorialDetail(outfitCase) {
+  const detailItems = detailItemsByCaseId[outfitCase.id]
+    ?? outfitCase.items.map((item) => ({ name: item.placeholderName }))
+  const usesCompactDetailTemplate = outfitCase.id === 'interview'
+    || outfitCase.id === 'internship'
+    || outfitCase.id === 'commute'
+    || outfitCase.id === 'date'
+    || outfitCase.id === 'weekend'
+    || outfitCase.id === 'travel'
+
+  return `
+    <div class="editorial-case-detail editorial-case-detail--${outfitCase.id}${usesCompactDetailTemplate ? ' editorial-case-detail--internship' : ''}" id="detail-${outfitCase.id}">
+      ${usesCompactDetailTemplate
+        ? `<header class="internship-style-note-heading"><p>STYLE NOTE</p><h3>ç©¿æ­æ‰‹è®°</h3></header>`
+        : `<header><p>EDITOR'S NOTE</p><h3>ä¸ºä»€ä¹ˆè¿™æ ·æ­</h3></header>`}
+      <div class="editorial-detail-intro">
+        <p>${detailLogic(outfitCase)}</p>
+        ${usesCompactDetailTemplate ? `<small>${expandedPreviewById[outfitCase.id].noteTip}</small>` : ''}
+      </div>
+      <section class="editorial-items" aria-label="æ ¸å¿ƒå•å“">
+        ${detailItems.map((item, index) => `
+          <div class="editorial-item ${index % 2 ? 'is-reversed' : ''}">
+            ${detailItemMedia(item, index, outfitCase)}
+            <div><span>0${index + 1}</span><h4>${item.name}</h4><p>${item.description ?? 'ç¤ºä¾‹å†…å®¹ï¼å¾…æ›¿æ¢ï¼šè¿™é‡Œä¼šè¯´æ˜è¿™ä»¶å•å“åœ¨æ•´å¥—ç©¿æ­ä¸­çš„ä½œç”¨ï¼Œä»¥åŠå¯ä»¥æ€æ ·æ›¿æ¢ã€‚'}</p></div>
+          </div>`).join('')}
+      </section>
+      ${budgetAndReplacement(outfitCase)}
+      ${caseDetailNavigation(outfitCase)}
+    </div>`
+}
+
+function syncFilterButtons() {
+  for (const button of filterButtons) {
+    const active = button.dataset.filter === activeFilter
+    button.classList.toggle('is-active', active)
+    button.setAttribute('aria-pressed', String(active))
+  }
+}
+
+function render() {
+  const visibleCases = activeFilter === 'all' ? outfitCases : outfitCases.filter((item) => item.scene === activeFilter)
+  count.textContent = `å½“å‰æ˜¾ç¤º ${visibleCases.length} ä¸ªæ¡ˆä¾‹`
+  list.innerHTML = visibleCases.map((outfitCase) => {
+    const isSelected = selectedId === outfitCase.id
+    const sourceIndex = outfitCases.findIndex((item) => item.id === outfitCase.id)
+    const caseNumber = sourceIndex + 1
+    const variant = ['a', 'b', 'c'][sourceIndex % 3]
+    const stages = outfitCase.suitableStages.map((stage) => stageLabels[stage]).join('ã€')
+
+    return `
+      <article class="case-story case-story--${variant} case-story--index-${caseNumber}" id="case-${outfitCase.id}">
+        <div class="case-story-media">${caseImage(outfitCase)}</div>
+        <div class="case-story-copy">
+          ${isSelected ? personalizedBanner(outfitCase) : ''}
+          ${isSelected ? expandedPreview(outfitCase) : `
+            <p class="content-status">${String(caseNumber).padStart(2, '0')} / ${sceneLabels[outfitCase.scene]}</p>
+            <h2>${outfitCase.title}</h2>
+            <p>ä¸º${sceneLabels[outfitCase.scene]}å‡†å¤‡çš„ä¸€å¥—${styleLabels[outfitCase.primaryStyle]}æ–¹å‘ç©¿æ­ï¼Œé€‚åˆ${stages}å‚è€ƒã€‚${outfitCase.summary}</p>`}
+            <button class="editorial-link" type="button" data-case-toggle="${outfitCase.id}" aria-expanded="${isSelected}" aria-controls="detail-${outfitCase.id}">${outfitCase.id === 'interview' || outfitCase.id === 'internship' || outfitCase.id === 'commute' || outfitCase.id === 'date' || outfitCase.id === 'travel'
+              ? (isSelected ? 'æ”¶èµ·è¯¦æƒ… <span>â†‘</span>' : 'æŸ¥çœ‹è¯¦æƒ… <span>â†“</span>')
+              : (isSelected ? 'æ”¶èµ·æ­é… <span>â†‘</span>' : 'æŸ¥çœ‹æ­é… <span>â†’</span>')}</button>
+        </div>
+        ${isSelected ? editorialDetail(outfitCase) : ''}
+      </article>`
+  }).join('')
+}
+
+for (const button of filterButtons) {
+  button.addEventListener('click', () => {
+    activeFilter = button.dataset.filter
+    selectedId = null
+    personalization = null
+    history.replaceState(null, '', casePagePath)
+    syncFilterButtons()
+    render()
+  })
+}
+
+let productPicker = null
+let productPickerCloseTimer = null
+let bodyOverflowBeforePicker = ''
+
+function closeProductPicker() {
+  if (!productPicker) return
+  productPicker.classList.remove('is-open')
+  productPicker.classList.add('is-closing')
+  document.body.style.overflow = bodyOverflowBeforePicker
+  clearTimeout(productPickerCloseTimer)
+  productPickerCloseTimer = window.setTimeout(() => {
+    productPicker?.remove()
+    productPicker = null
+  }, 200)
+}
+
+function openProductPicker(item) {
+  if (!window.matchMedia('(min-width: 701px)').matches || !item?.productLinks || item.productLinks.length < 2) return
+  closeProductPicker()
+  clearTimeout(productPickerCloseTimer)
+
+  productPicker = document.createElement('div')
+  productPicker.className = 'internship-product-picker'
+  productPicker.setAttribute('role', 'presentation')
+  productPicker.innerHTML = `
+    <div class="internship-product-picker-backdrop" data-product-picker-close></div>
+    <section class="internship-product-picker-dialog" role="dialog" aria-modal="true" aria-labelledby="internship-product-picker-title">
+      <button class="internship-product-picker-close" type="button" data-product-picker-close aria-label="å…³é—­">Ã—</button>
+      <p class="internship-product-picker-kicker">SHOP THE LOOK</p>
+      <h3 id="internship-product-picker-title">é€‰æ‹©æƒ³çœ‹çš„å•å“</h3>
+      <div class="internship-product-picker-options">
+        ${item.productLinks.map((product, index) => `
+          <a class="internship-product-picker-option" href="${product.url}" target="_blank" rel="noopener noreferrer">
+            <span class="internship-product-picker-category">${product.type?.toUpperCase() ?? 'ITEM'}</span>
+            ${product.imageUrl
+              ? `<span class="internship-product-picker-media"><img src="${product.imageUrl}" alt="${product.label}" /></span>`
+              : `<span class="internship-product-picker-fallback" aria-hidden="true"><small>${product.type?.toUpperCase() ?? 'ITEM'}</small></span>`}
+            <span class="internship-product-picker-copy">
+              <strong>${product.label}</strong>
+              <span class="internship-product-picker-link">æŸ¥çœ‹ç›¸ä¼¼æ¬¾ <i aria-hidden="true">â†—</i></span>
+            </span>
+          </a>`).join('')}
+      </div>
+    </section>`
+
+  bodyOverflowBeforePicker = document.body.style.overflow
+  document.body.style.overflow = 'hidden'
+  document.body.append(productPicker)
+  requestAnimationFrame(() => {
+    productPicker?.classList.add('is-open')
+    productPicker?.querySelector('.internship-product-picker-close')?.focus()
+  })
+}
+
+document.addEventListener('click', (event) => {
+  if (event.target.closest('[data-product-picker-close]')) closeProductPicker()
+})
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape' && productPicker) closeProductPicker()
+})
+
+list.addEventListener('click', (event) => {
+  const productAction = event.target.closest('.internship-product-trigger')
+  if (productAction && !window.matchMedia('(min-width: 701px)').matches) {
+    event.preventDefault()
+    return
+  }
+
+  const productTrigger = event.target.closest('[data-product-picker]')
+  if (productTrigger) {
+    event.preventDefault()
+    const productCaseId = productTrigger.dataset.productCase || 'internship'
+    const productItems = detailItemsByCaseId[productCaseId]
+    openProductPicker(productItems?.[Number(productTrigger.dataset.productPicker)])
+    return
+  }
+
+  const budgetToggle = event.target.closest('[data-budget-toggle]')
+  if (budgetToggle) {
+    const panel = document.getElementById(budgetToggle.getAttribute('aria-controls'))
+    const isOpen = budgetToggle.getAttribute('aria-expanded') === 'true'
+    budgetToggle.setAttribute('aria-expanded', String(!isOpen))
+    budgetToggle.innerHTML = isOpen
+      ? 'é¢„ç®—æœ‰é™ï¼ŸæŸ¥çœ‹æ›¿æ¢æ€è·¯ <span aria-hidden="true">â†“</span>'
+      : 'æ”¶èµ·é¢„ç®—ä¸æ›¿æ¢ <span aria-hidden="true">â†‘</span>'
+    panel?.classList.toggle('is-open', !isOpen)
+    panel?.setAttribute('aria-hidden', String(isOpen))
+    return
+  }
+
+  const button = event.target.closest('[data-case-toggle]')
+  if (!button) return
+  selectedId = selectedId === button.dataset.caseToggle ? null : button.dataset.caseToggle
+  personalization = null
+  history.replaceState(null, '', selectedId ? `${casePagePath}?case=${selectedId}` : casePagePath)
+  render()
+  if (selectedId) document.getElementById(`case-${selectedId}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+})
+
+syncFilterButtons()
+render()
+if (selectedId) requestAnimationFrame(() => document.getElementById(`case-${selectedId}`)?.scrollIntoView({ block: 'start' }))

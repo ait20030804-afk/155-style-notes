@@ -570,4 +570,881 @@
     flex-wrap: wrap;
     gap: 8px 18px;
     margin-top: 24px;
-    color: var(ÛÝµ¶‰žËkºwµçI¥ Ôì(€€€µ…É¥¸è€À€À€ÄÍÁàì(€€€½±½ÈèÙ…È ´µ‰±…¬¤ì(€€€™½¹ÐµÍ¥é”è€ÄÙÁàì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Ðì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹•‘¥Ñ½É¥…°µ‰Õ‘•Ðµ½Áä°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹•‘¥Ñ½É¥…°µÉ•Á±…•µ•¹Ðµ±¥ÍÐÀì(€€€µ…É¥¸è€Àì(€€€½±½ÈèÙ…È ´µ•‘¥Ñ½É¥…°µµÕÑ•¤ì(€€€™½¹ÐµÍ¥é”è€ÄÑÁàì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸àì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹•‘¥Ñ½É¥…°µÉ•Á±…•µ•¹Ðµ±¥ÍÐì(€€€‘¥ÍÁ±…äèÉ¥ì(€€€…Àè€ÙÁàì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹•‘¥Ñ½É¥…°µÉ•Á±…”µÁÉ¥¹¥Á±”ì(€€€µ…É¥¸è€ÈÕÁà€À€Àì(€€€Á…‘‘¥¹œµÑ½Àè€ÄåÁàì(€€€‰½É‘•ÈµÑ½Àè€ÅÁàÍ½±¥É‰„ àØ°€ÜÐ°€ØÐ°€À¸Äà¤ì(€€€½±½ÈèÙ…È ´µ‰±…¬¤ì(€€€™½¹Ðµ™…µ¥±äè•½É¥„°€‰9½Ñ¼M•É¥˜Mˆ°€‰M½¹Ñ¤Mˆ°Í•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÝÁàì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Üì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹•‘¥Ñ½É¥…°µ‰Õ‘•Ðµ¥¹¹•È€øÍµ…±°ì(€€€‘¥ÍÁ±…äè‰±½¬ì(€€€µ…É¥¸µÑ½Àè€ÄÙÁàì(€€€½±½ÈèÉ‰„ àØ°€ÜÐ°€ØÐ°€À¸ÔØ¤ì(€€€™½¹ÐµÍ¥é”è€ÄÅÁàì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Ôì(€ô)ô()µ•‘¥„€¡µ¥¸µÝ¥‘Ñ è€ÜÀÅÁà¤…¹€¡µ…àµÝ¥‘Ñ è€ÄÄÀÁÁà¤ì(€€¹…Í•ÌµÁ…”€¹…Í”µ±¥ÍÐì(€€€É¥µÑ•µÁ±…Ñ”µ½±Õµ¹ÌèÉ•Á•…Ð È°µ¥¹µ…à À°€Å™È¤¤ì(€€€É¥µ…ÕÑ¼µÉ½ÝÌè€ÌÈÁÁàì(€€€Á…‘‘¥¹œµÑ½Àè€ÌÑÁàì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µ±¥ÍÐé¹½Ð é¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤¤é¹½Ð é¡…Ì ø€¹…Í”µÍÑ½Éäé½¹±äµ¡¥±¤¤€¹…Í”µÍÑ½Éäì(€€€É¥µÑ•µÁ±…Ñ”µÉ½ÝÌè€ÜÔ”€ÈÔ”ì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ¥¹‘•à´Ä°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ¥¹‘•à´Ðì(€€€É¥µ½±Õµ¸èÍÁ…¸€Èì(€€€É¥µÉ½ÜèÍÁ…¸€Èì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ¥¹‘•à´È°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ¥¹‘•à´Ì°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ¥¹‘•à´Ô°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ¥¹‘•à´Øì(€€€É¥µ½±Õµ¸èÍÁ…¸€Äì(€€€É¥µÉ½ÜèÍÁ…¸€Äì(€ô)ô()µ•‘¥„€¡µ…àµÝ¥‘Ñ è€ÜÀÁÁà¤ì(€€¹…Í•ÌµÁ…”€¹™¥±Ñ•Èµ‰…Èì(€€€…Àè€ÄáÁàì(€ô((€€¹…Í•ÌµÁ…”€¹™¥±Ñ•Èµ‰ÕÑÑ½¸€¬€¹™¥±Ñ•Èµ‰ÕÑÑ½¸ì(€€€Á…‘‘¥¹œµ±•™Ðè€ÄáÁàì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µ±¥ÍÐì(€€€É¥µÑ•µÁ±…Ñ”µ½±Õµ¹Ìè€Å™Èì(€€€Á…‘‘¥¹œµÑ½Àè€ÌÉÁàì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µ„°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µˆ°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éä´µŒì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€¡•¥¡Ðè…ÕÑ¼ì(€€€…ÍÁ•ÐµÉ…Ñ¥¼è…ÕÑ¼ì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¹½Ð é¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤¤€¹…Í”µÍÑ½Éäµµ•‘¥„ì(€€€¡•¥¡Ðè…ÕÑ¼ì(€€€…ÍÁ•ÐµÉ…Ñ¥¼è€Ð€¼€Ôì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤ì(€€€‘¥ÍÁ±…äè™±•àì(€€€…ÍÁ•ÐµÉ…Ñ¥¼è…ÕÑ¼ì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹…Í”µÍÑ½Éäµµ•‘¥„ì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€µ¥¸µ¡•¥¡Ðè€Àì(€€€…ÍÁ•ÐµÉ…Ñ¥¼è€Ð€¼€Ôì(€€€‰½É‘•ÈµÉ…‘¥ÕÌè€ÉÁà€ÉÁà€À€Àì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹…Í”µÍÑ½Éäµ½Áäì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€Á…‘‘¥¹œè€ÈáÁà€ÈÑÁàì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°¤€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°ì(€€€Ý¥‘Ñ è…ÕÑ¼ì(€€€µ…É¥¸è€À€ÈÁÁà€ÈÁÁàì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•µÌì(€€€É¥µÑ•µÁ±…Ñ”µ½±Õµ¹ÌèÉ•Á•…Ð È°µ¥¹µ…à À°€Å™È¤¤ì(€€€…Àè€ÈáÁà€ÄÑÁàì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•´°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•´¹¥ÌµÉ•Ù•ÉÍ•ì(€€€‘¥ÍÁ±…äèÉ¥ì(€€€É¥µÑ•µÁ±…Ñ”µ½±Õµ¹Ìèµ¥¹µ…à À°€Å™È¤ì(€€€…Àè€ÄÉÁàì(€€€µ¥¸µÝ¥‘Ñ è€Àì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•´µµ•‘¥„°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•´¹¥ÌµÉ•Ù•ÉÍ•€¹•‘¥Ñ½É¥…°µ¥Ñ•´µµ•‘¥„ì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€…ÍÁ•ÐµÉ…Ñ¥¼è€Ô€¼€Øì(€€€½É‘•Èè¥¹¥Ñ¥…°ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•´ Ðì(€€€µ…É¥¸è€ÕÁà€À€ÙÁàì(€€€™½¹ÐµÍ¥é”è€ÄÕÁàì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹•‘¥Ñ½É¥…°µ¥Ñ•´Àì(€€€µ…É¥¸è€Àì(€€€™½¹ÐµÍ¥é”è€ÄÉÁàì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸ÔÔì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ì(€€€™±•àµ‘¥É•Ñ¥½¸è½±Õµ¸ì(€€€…±¥¸µ¥Ñ•µÌè™±•àµÍÑ…ÉÐì(€€€…Àè€ÄÉÁàì(€ô)ô((¼¨%¹Ñ•É¹Í¡¥À‘•Ñ…¥°½¹±äè½µÁ…Ð•‘¥Ñ½É¥…°¡•…‘¥¹œ…¹„Í¥¹±”É•Á±…•µ•¹Ð¹½Ñ”¸€¨¼(¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€ø€¹¥¹Ñ•É¹Í¡¥ÀµÍÑå±”µ¹½Ñ”µ¡•…‘¥¹œì(€‘¥ÍÁ±…äè‰±½¬ì(€µ…É¥¸µ‰½ÑÑ½´è€áÁàì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€ø€¹¥¹Ñ•É¹Í¡¥ÀµÍÑå±”µ¹½Ñ”µ¡•…‘¥¹œ Ìì(€µ…É¥¸è€Àì(€™½¹ÐµÍ¥é”è€ÈáÁàì(€±¥¹”µ¡•¥¡Ðè€Ä¸ÄÔì(€±•ÑÑ•ÈµÍÁ…¥¹œè€´À¸ÀÉ•´ì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€ø€¹¥¹Ñ•É¹Í¡¥ÀµÍÑå±”µ¹½Ñ”µ¡•…‘¥¹œÀì(€µ…É¥¸è€À€À€áÁàì(€½±½ÈèÙ…È ´µ•‘¥Ñ½É¥…°µ…•¹Ð¤ì(€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€™½¹ÐµÍ¥é”è€ÄÅÁàì(€™½¹ÐµÝ•¥¡Ðè€ÜÀÀì(€±¥¹”µ¡•¥¡Ðè€Ä¸Ìì(€±•ÑÑ•ÈµÍÁ…¥¹œè€À¸ÄÉ•´ì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ðµ¡¥¹Ðì(€‘¥ÍÁ±…äè™±•àì(€…±¥¸µ¥Ñ•µÌè‰…Í•±¥¹”ì(€…Àè€ÄÙÁàì(€Ý¥‘Ñ è€ÄÀÀ”ì(€µ…É¥¸µÑ½Àè€ÌÙÁàì(€Á…‘‘¥¹œµÑ½Àè€ÄáÁàì(€‰½É‘•ÈµÑ½Àè€ÅÁàÍ½±¥É‰„ àØ°€ÜÐ°€ØÐ°€À¸È¤ì(€½±½ÈèÙ…È ´µ•‘¥Ñ½É¥…°µµÕÑ•¤ì(€™½¹ÐµÍ¥é”è€ÄÕÁàì(€±¥¹”µ¡•¥¡Ðè€Ä¸Üì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ðµ¡¥¹ÐÍÑÉ½¹œì(€™±•àè€À€À…ÕÑ¼ì(€½±½ÈèÙ…È ´µ•‘¥Ñ½É¥…°µ…•¹Ð¤ì(€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€™½¹ÐµÍ¥é”è€ÄÍÁàì(€™½¹ÐµÝ•¥¡Ðè€ÜÀÀì(€±•ÑÑ•ÈµÍÁ…¥¹œè€À¸Àá•´ì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ðµ¡¥¹ÐÍÁ…¸ì(€µ¥¸µÝ¥‘Ñ è€Àì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ðµ¡¥¹Ð€¬€¹…Í”µ‘•Ñ…¥°µ¹…Ù¥…Ñ¥½¸ì(€µ…É¥¸µÑ½Àè€ÈáÁàì(€Á…‘‘¥¹œµÑ½Àè€Àì(€‰½É‘•ÈµÑ½Àè€Àì)ô((¼¨%¹Ñ•É¹Í¡¥À‘•Ñ…¥°½¹±äè­••ÀÑ¡”™½½Ñ•È¥¸¹½Éµ…°™±½ÜÝ¡¥±”Ñ¥¡Ñ•¹¥¹œÑ¡”±½Í¥¹œÉ¡åÑ¡´¸€¨¼(¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í•Ìµ±…å½ÕÐé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À¤ì(€Á…‘‘¥¹œµ‰½ÑÑ½´è€ÔÙÁàì)ô()µ•‘¥„€¡µ…àµÝ¥‘Ñ è€ÜÀÁÁà¤ì(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€ø€¹¥¹Ñ•É¹Í¡¥ÀµÍÑå±”µ¹½Ñ”µ¡•…‘¥¹œ Ìì(€€€™½¹ÐµÍ¥é”è€ÈÑÁàì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÉ•Á±…•µ•¹Ðµ¡¥¹Ðì(€€€…±¥¸µ¥Ñ•µÌè™±•àµÍÑ…ÉÐì(€€€™±•àµÝÉ…ÀèÝÉ…Àì(€€€…Àè€ÑÁà€ÄÁÁàì(€€€µ…É¥¸µÑ½Àè€ÈáÁàì(€€€Á…‘‘¥¹œµÑ½Àè€ÄÙÁàì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡…Ì ¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À¤€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥Àì(€€€µ…É¥¸µ‰½ÑÑ½´è€Àì(€ô)ô((¼¨%¹Ñ•É¹Í¡¥À‘•Ñ…¥°½¹±äèÉ•ÍÑÉ…¥¹•‘•Í­Ñ½ÀÁÉ½‘ÕÐ‘¥Í½Ù•Éä½¸Ñ¡”•á¥ÍÑ¥¹œ¥µ…•Éä¸€¨¼(¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èì(€‘¥ÍÁ±…äè½¹Ñ•¹ÑÌì)ô((¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµ½Ù•É±…äì(€‘¥ÍÁ±…äè¹½¹”ì)ô()µ•‘¥„€¡µ¥¸µÝ¥‘Ñ è€ÜÀÅÁà¤ì(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµµ•‘¥„ì(€€€Á½Í¥Ñ¥½¸èÉ•±…Ñ¥Ù”ì(€€€½Ù•É™±½Üè¡¥‘‘•¸ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èì(€€€Á½Í¥Ñ¥½¸èÉ•±…Ñ¥Ù”ì(€€€‘¥ÍÁ±…äè‰±½¬ì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€¡•¥¡Ðè€ÄÀÀ”ì(€€€½Ù•É™±½Üè¡¥‘‘•¸ì(€€€½±½Èè¥¹¡•É¥Ðì(€€€Ñ•áÐµ‘•½É…Ñ¥½¸è¹½¹”ì(€€€ÕÉÍ½ÈèÁ½¥¹Ñ•Èì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èèé…™Ñ•Èì(€€€½¹Ñ•¹Ðè€ˆˆì(€€€Á½Í¥Ñ¥½¸è…‰Í½±ÕÑ”ì(€€€¥¹Í•Ðè€Àì(€€€èµ¥¹‘•àè€Äì(€€€‰…­É½Õ¹èÉ‰„ ÌÔ°€Èä°€ÈÔ°€À¸Äà¤ì(€€€½Á…¥Ñäè€Àì(€€€ÑÉ…¹Í¥Ñ¥½¸è½Á…¥Ñä€ÄäÁµÌ•…Í”ì(€€€Á½¥¹Ñ•Èµ•Ù•¹ÑÌè¹½¹”ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•È¥µœì(€€€ÑÉ…¹Í¥Ñ¥½¸èÑÉ…¹Í™½É´€ÄäÁµÌ•…Í”ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµ½Ù•É±…äì(€€€Á½Í¥Ñ¥½¸è…‰Í½±ÕÑ”ì(€€€‘¥ÍÁ±…äè‰±½¬ì(€€€Ñ½Àè€ÔÀ”ì(€€€±•™Ðè€ÔÀ”ì(€€€èµ¥¹‘•àè€Èì(€€€Ý¥‘Ñ èµ…àµ½¹Ñ•¹Ðì(€€€µ…àµÝ¥‘Ñ è…±Œ ÄÀÀ”€´€ÈáÁà¤ì(€€€½±½Èè€™™™…˜Ìì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÍÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ØÀÀì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Ðì(€€€±•ÑÑ•ÈµÍÁ…¥¹œè€À¸ÀÑ•´ì(€€€½Á…¥Ñäè€Àì(€€€ÑÉ…¹Í™½É´èÑÉ…¹Í±…Ñ” ´ÔÀ”°…±Œ ´ÔÀ”€¬€ÑÁà¤¤ì(€€€ÑÉ…¹Í¥Ñ¥½¸è½Á…¥Ñä€ÄäÁµÌ•…Í”°ÑÉ…¹Í™½É´€ÄäÁµÌ•…Í”ì(€€€Á½¥¹Ñ•Èµ•Ù•¹ÑÌè¹½¹”ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé¡½Ù•Èèé…™Ñ•È°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé™½ÕÌµÙ¥Í¥‰±”èé…™Ñ•È°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé¡½Ù•È€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµ½Ù•É±…ä°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé™½ÕÌµÙ¥Í¥‰±”€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµ½Ù•É±…äì(€€€½Á…¥Ñäè€Äì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé¡½Ù•È¥µœ°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé™½ÕÌµÙ¥Í¥‰±”¥µœì(€€€ÑÉ…¹Í™½É´èÍ…±” Ä¸ÀÄÔ¤ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé¡½Ù•È€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµ½Ù•É±…ä°(€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé™½ÕÌµÙ¥Í¥‰±”€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµ½Ù•É±…äì(€€€ÑÉ…¹Í™½É´èÑÉ…¹Í±…Ñ” ´ÔÀ”°€´ÔÀ”¤ì(€ô((€€¹…Í•ÌµÁ…”€¹•‘¥Ñ½É¥…°µ…Í”µ‘•Ñ…¥°´µ¥¹Ñ•É¹Í¡¥À€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÑÉ¥•Èé™½ÕÌµÙ¥Í¥‰±”ì(€€€½ÕÑ±¥¹”è€ÅÁàÍ½±¥Ù…È ´µ•‘¥Ñ½É¥…°µ…•¹Ð¤ì(€€€½ÕÑ±¥¹”µ½™™Í•Ðè€´ÍÁàì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èì(€€€Á½Í¥Ñ¥½¸è™¥á•ì(€€€¥¹Í•Ðè€Àì(€€€èµ¥¹‘•àè€ÈÀÀì(€€€‘¥ÍÁ±…äèÉ¥ì(€€€Á±…”µ¥Ñ•µÌè•¹Ñ•Èì(€€€Á…‘‘¥¹œè€ÈÁÁàì(€€€½Á…¥Ñäè€Àì(€€€Ù¥Í¥‰¥±¥Ñäè¡¥‘‘•¸ì(€€€Á½¥¹Ñ•Èµ•Ù•¹ÑÌè¹½¹”ì(€€€ÑÉ…¹Í¥Ñ¥½¸è½Á…¥Ñä€ÈÀÁµÌ•…Í”°Ù¥Í¥‰¥±¥Ñä€ÁÌ±¥¹•…È€ÈÀÁµÌì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•È¹¥Ìµ½Á•¸ì(€€€½Á…¥Ñäè€Äì(€€€Ù¥Í¥‰¥±¥ÑäèÙ¥Í¥‰±”ì(€€€Á½¥¹Ñ•Èµ•Ù•¹ÑÌè…ÕÑ¼ì(€€€ÑÉ…¹Í¥Ñ¥½¸µ‘•±…äè€ÁÌì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ‰…­‘É½Àì(€€€Á½Í¥Ñ¥½¸è…‰Í½±ÕÑ”ì(€€€¥¹Í•Ðè€Àì(€€€‰…­É½Õ¹èÉ‰„ ÌÔ°€Èä°€ÈÔ°€À¸Èà¤ì(€€€‰…­‘É½Àµ™¥±Ñ•Èè‰±ÕÈ ÕÁà¤ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ‘¥…±½œì(€€€Á½Í¥Ñ¥½¸èÉ•±…Ñ¥Ù”ì(€€€èµ¥¹‘•àè€Äì(€€€Ý¥‘Ñ èµ¥¸ ÔÈÁÁà°…±Œ ÄÀÁÙÜ€´€ÐÁÁà¤¤ì(€€€µ…àµÝ¥‘Ñ è€ÔÈÁÁàì(€€€Á…‘‘¥¹œè€ÈÝÁàì(€€€‰½É‘•Èè€ÅÁàÍ½±¥É‰„ ÄÄÄ°€äÄ°€ÜÔ°€À¸È¤ì(€€€‰½É‘•ÈµÉ…‘¥ÕÌè€ÄÉÁàì(€€€‰…­É½Õ¹è€˜É•…‘˜ì(€€€‰½àµÍ¡…‘½Üè€À€ÄÙÁà€ÐÉÁàÉ‰„ ÌÔ°€Èä°€ÈÔ°€À¸ÄÈ¤ì(€€€½Á…¥Ñäè€Àì(€€€ÑÉ…¹Í™½É´èÑÉ…¹Í±…Ñ•d ÕÁà¤Í…±” À¸ää¤ì(€€€ÑÉ…¹Í¥Ñ¥½¸è½Á…¥Ñä€ÈÀÁµÌ•…Í”°ÑÉ…¹Í™½É´€ÈÀÁµÌ•…Í”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•È¹¥Ìµ½Á•¸€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ‘¥…±½œì(€€€½Á…¥Ñäè€Äì(€€€ÑÉ…¹Í™½É´èÑÉ…¹Í±…Ñ•d À¤Í…±” Ä¤ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ‘¥…±½œ Ìì(€€€µ…É¥¸è€À€ÌÑÁà€À€Àì(€€€½±½Èè€ŒÉˆÈàÈÔì(€€€™½¹Ðµ™…µ¥±äè•½É¥„°€‰9½Ñ¼M•É¥˜Mˆ°Í•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÈÕÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ÐÀÀì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸ÈÔì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ­¥­•Èì(€€€µ…É¥¸è€À€ÌÑÁà€ÕÁà€Àì(€€€½±½Èè€„äÔØÌÔì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÁÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ØÀÀì(€€€±•ÑÑ•ÈµÍÁ…¥¹œè€À¸Äá•´ì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Ðì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ¹½Ñ”ì(€€€µ…É¥¸è€Àì(€€€½±½ÈèÉ‰„ ÜÄ°€ØÈ°€ÔÔ°€À¸ÔÐ¤ì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÅÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ÐÀÀì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Øì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±½Í”ì(€€€Á½Í¥Ñ¥½¸è…‰Í½±ÕÑ”ì(€€€Ñ½Àè€ÄÙÁàì(€€€É¥¡Ðè€ÄÙÁàì(€€€‘¥ÍÁ±…äèÉ¥ì(€€€Á±…”µ¥Ñ•µÌè•¹Ñ•Èì(€€€Ý¥‘Ñ è€ÈáÁàì(€€€¡•¥¡Ðè€ÈáÁàì(€€€Á…‘‘¥¹œè€Àì(€€€‰½É‘•Èè€Àì(€€€½±½Èè€ŒÔÄÑˆÐÔì(€€€‰…­É½Õ¹èÑÉ…¹ÍÁ…É•¹Ðì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÈÉÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ÌÀÀì(€€€±¥¹”µ¡•¥¡Ðè€Äì(€€€ÕÉÍ½ÈèÁ½¥¹Ñ•Èì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¹Ìì(€€€‘¥ÍÁ±…äèÉ¥ì(€€€É¥µÑ•µÁ±…Ñ”µ½±Õµ¹ÌèÉ•Á•…Ð È°µ¥¹µ…à À°€Å™È¤¤ì(€€€…Àè€ÄáÁàì(€€€µ…É¥¸µÑ½Àè€ÈÁÁàì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸ì(€€€Á½Í¥Ñ¥½¸èÉ•±…Ñ¥Ù”ì(€€€‘¥ÍÁ±…äè™±•àì(€€€µ¥¸µ¡•¥¡Ðè€Àì(€€€™±•àµ‘¥É•Ñ¥½¸è½±Õµ¸ì(€€€µ¥¸µÝ¥‘Ñ è€Àì(€€€Á…‘‘¥¹œè€Àì(€€€½Ù•É™±½ÜèÙ¥Í¥‰±”ì(€€€‰½É‘•Èè€Àì(€€€½±½Èè€ŒÉˆÈàÈÔì(€€€‰…­É½Õ¹èÑÉ…¹ÍÁ…É•¹Ðì(€€€Ñ•áÐµ‘•½É…Ñ¥½¸è¹½¹”ì(€€€ÕÉÍ½ÈèÁ½¥¹Ñ•Èì(€€€ÑÉ…¹Í¥Ñ¥½¸è¹½¹”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¡½Ù•È°(€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é™½ÕÌµÙ¥Í¥‰±”ì(€€€‰½àµÍ¡…‘½Üè¹½¹”ì(€€€ÑÉ…¹Í™½É´è¹½¹”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ…Ñ•½Éäì(€€€Á½Í¥Ñ¥½¸è…‰Í½±ÕÑ”ì(€€€èµ¥¹‘•àè€Èì(€€€Ñ½Àè€ÄÉÁàì(€€€±•™Ðè€ÄÉÁàì(€€€‘¥ÍÁ±…äè‰±½¬ì(€€€Á…‘‘¥¹œè€Àì(€€€½±½Èè€˜á˜É•„ì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÅÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ØÀÀì(€€€±•ÑÑ•ÈµÍÁ…¥¹œè€À¸ÄÑ•´ì(€€€±¥¹”µ¡•¥¡Ðè€Äì(€€€Ñ•áÐµÍ¡…‘½Üè€À€ÅÁà€ÙÁàÉ‰„ ÌÔ°€Èä°€ÈÔ°€À¸ØÈ¤ì(€€€Á½¥¹Ñ•Èµ•Ù•¹ÑÌè¹½¹”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµµ•‘¥„ì(€€€‘¥ÍÁ±…äè‰±½¬ì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€…ÍÁ•ÐµÉ…Ñ¥¼è€Ð€¼€Ôì(€€€½Ù•É™±½Üè¡¥‘‘•¸ì(€€€‰…­É½Õ¹è€˜Å•‰”Èì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµµ•‘¥„¥µœì(€€€Ý¥‘Ñ è€ÄÀÀ”ì(€€€¡•¥¡Ðè€ÄÀÀ”ì(€€€½‰©•Ðµ™¥Ðè½Ù•Èì(€€€ÑÉ…¹Í¥Ñ¥½¸èÑÉ…¹Í™½É´€ÈÀÁµÌ•…Í”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¹Ñ µ¡¥± Ä¤€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµµ•‘¥„¥µœì(€€€½‰©•ÐµÁ½Í¥Ñ¥½¸è€ÔÀ”€ÔÀ”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¹Ñ µ¡¥± È¤€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµµ•‘¥„¥µœì(€€€½‰©•ÐµÁ½Í¥Ñ¥½¸è€ÔÀ”€ØØ”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¡½Ù•È€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµµ•‘¥„¥µœ°(€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é™½ÕÌµÙ¥Í¥‰±”€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµµ•‘¥„¥µœì(€€€ÑÉ…¹Í™½É´èÍ…±” Ä¸ÀÈ¤ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ™…±±‰…¬ì(€€€‘¥ÍÁ±…äè™±•àì(€€€µ¥¸µ¡•¥¡Ðè€ÄÜÙÁàì(€€€™±•àµ‘¥É•Ñ¥½¸è½±Õµ¸ì(€€€©ÕÍÑ¥™äµ½¹Ñ•¹Ðè•¹Ñ•Èì(€€€Á…‘‘¥¹œè€ÄáÁàì(€€€‰…­É½Õ¹è±¥¹•…ÈµÉ…‘¥•¹Ð ÄÐÕ‘•œ°É‰„ ÈÐÀ°€ÈÌÀ°€ÈÄä°€À¸ÈØ¤°É‰„ ÈÌÈ°€ÈÄØ°€ÈÀÐ°€À¸ÔØ¤¤ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ™…±±‰…¬Íµ…±°ì(€€€½±½ÈèÙ…È ´µ•‘¥Ñ½É¥…°µ…•¹Ð¤ì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÅÁàì(€€€±•ÑÑ•ÈµÍÁ…¥¹œè€À¸ÄÙ•´ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½Áäì(€€€‘¥ÍÁ±…äèÉ¥ì(€€€…Àè€ÕÁàì(€€€Á…‘‘¥¹œè€ÄÍÁà€À€Àì(€€€‰½É‘•Èè€Àì(€€€‰…­É½Õ¹èÑÉ…¹ÍÁ…É•¹Ðì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸ÍÑÉ½¹œì(€€€™½¹Ðµ™…µ¥±äè•½É¥„°€‰9½Ñ¼M•É¥˜Mˆ°Í•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄáÁàì(€€€™½¹ÐµÝ•¥¡Ðè€ÐÀÀì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸ÌÔì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬ì(€€€Á½Í¥Ñ¥½¸èÉ•±…Ñ¥Ù”ì(€€€‘¥ÍÁ±…äè¥¹±¥¹”µ™±•àì(€€€…±¥¸µ¥Ñ•µÌè•¹Ñ•Èì(€€€…±¥¸µÍ•±˜èÍÑ…ÉÐì(€€€Ý¥‘Ñ è™¥Ðµ½¹Ñ•¹Ðì(€€€Á…‘‘¥¹œè€À€À€ÕÁàì(€€€‰½É‘•Èè€Àì(€€€½±½Èè€„äÔØÌÔì(€€€‰…­É½Õ¹èÑÉ…¹ÍÁ…É•¹Ðì(€€€™½¹Ðµ™…µ¥±äè%¹Ñ•È°€‰9½Ñ¼M…¹ÌMˆ°Í…¹ÌµÍ•É¥˜ì(€€€™½¹ÐµÍ¥é”è€ÄÉÁàì(€€€±¥¹”µ¡•¥¡Ðè€Ä¸Ðì(€€€ÑÉ…¹Í¥Ñ¥½¸è½±½È€ÈÀÁµÌ•…Í”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬èé…™Ñ•Èì(€€€½¹Ñ•¹Ðè€ˆˆì(€€€Á½Í¥Ñ¥½¸è…‰Í½±ÕÑ”ì(€€€±•™Ðè€Àì(€€€‰½ÑÑ½´è€Àì(€€€Ý¥‘Ñ è€ÈáÁàì(€€€¡•¥¡Ðè€ÅÁàì(€€€‰…­É½Õ¹èÕÉÉ•¹Ñ½±½Èì(€€€ÑÉ…¹Í¥Ñ¥½¸èÝ¥‘Ñ €ÈÀÁµÌ•…Í”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬¤ì(€€€‘¥ÍÁ±…äè¥¹±¥¹”µ‰±½¬ì(€€€™½¹ÐµÍÑå±”è¹½Éµ…°ì(€€€ÑÉ…¹Í¥Ñ¥½¸èÑÉ…¹Í™½É´€ÈÀÁµÌ•…Í”ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¡½Ù•È€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬¤°(€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é™½ÕÌµÙ¥Í¥‰±”€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬¤ì(€€€ÑÉ…¹Í™½É´èÑÉ…¹Í±…Ñ•` ÉÁà¤ì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¡½Ù•È€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬°(€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é™½ÕÌµÙ¥Í¥‰±”€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬ì(€€€½±½Èè€ŒàØÐÔÉì(€ô((€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é¡½Ù•È€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬èé…™Ñ•È°(€€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ½ÁÑ¥½¸é™½ÕÌµÙ¥Í¥‰±”€¹¥¹Ñ•É¹Í¡¥ÀµÁÉ½‘ÕÐµÁ¥­•Èµ±¥¹¬èé…™Ñ•Èì(€€€Ý¥‘Ñ è€ÐÁÁàì(€ô)ô()µ•‘¥„€¡ÁÉ•™•ÉÌµÉ•‘Õ•µµ½Ñ¥½¸èÉ•‘Õ”¤ì(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäµµ•‘¥„€¹¥µ…”µÁ±…•¡½±‘•È°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäµµ•‘¥„¥µœì(€€€ÑÉ…¹Í¥Ñ¥½¸è¹½¹”ì(€ô((€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡½Ù•È€¹…Í”µÍÑ½Éäµµ•‘¥„€¹¥µ…”µÁ±…•¡½±‘•È°(€€¹…Í•ÌµÁ…”€¹…Í”µÍÑ½Éäé¡½Ù•È€¹…Í”µÍÑ½Éäµµ•‘¥„¥µœì(€€€ÑÉ…¹Í™½É´è¹½¹”ì(€ô)ô
+    color: var(--editorial-accent);
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-expanded-tags span + span::before {
+    content: "/";
+    margin-right: 18px;
+    color: rgba(86, 74, 64, 0.45);
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-link {
+    align-self: flex-start;
+    margin-top: auto;
+    font-size: 13px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-expanded-items,
+  .cases-page .case-story:has(.editorial-case-detail) .case-expanded-note {
+    margin: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-expanded-items {
+    color: var(--editorial-accent);
+    font-size: 13px;
+    line-height: 1.6;
+    letter-spacing: 0.025em;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-expanded-note {
+    margin-top: 9px;
+    color: var(--editorial-muted);
+    font-size: 14px;
+    line-height: 1.72;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-case-detail {
+    margin: 64px 0 0;
+    padding-top: 31px;
+    border-top-width: 1px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-case-detail > header {
+    display: block;
+    margin-bottom: 12px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-case-detail > header h3 {
+    margin-top: 8px;
+    font-size: 38px;
+    line-height: 1.1;
+    letter-spacing: -0.025em;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-detail-intro {
+    width: min(760px, 100%);
+    margin: 0 0 44px;
+    font-size: 16px;
+    line-height: 1.85;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-detail-intro p {
+    margin: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-detail-intro small {
+    display: block;
+    margin-top: 10px;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  /* Compact item breakdown: four comparable pieces in one editorial row. */
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-items {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    align-items: start;
+    gap: 24px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item,
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item.is-reversed {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto auto;
+    align-items: start;
+    gap: 14px;
+    min-width: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item .image-placeholder,
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item.is-reversed .image-placeholder,
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item .editorial-item-media,
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item.is-reversed .editorial-item-media {
+    width: 100%;
+    min-height: 0;
+    aspect-ratio: 5 / 6;
+    order: initial;
+    border: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item > div {
+    min-width: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item span {
+    display: block;
+    font-size: 13px;
+    line-height: 1.3;
+    letter-spacing: 0.08em;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item h4 {
+    margin: 6px 0 7px;
+    overflow: hidden;
+    font-size: 16px;
+    line-height: 1.35;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-item p {
+    margin: 0;
+    overflow: hidden;
+    color: var(--editorial-muted);
+    display: -webkit-box;
+    font-size: 14px;
+    line-height: 1.55;
+    min-height: 3.1em;
+    white-space: normal;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-detail-footer {
+    width: 100%;
+    margin: 58px 0 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-detail-navigation {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin-top: 54px;
+    padding-top: 22px;
+    border-top: 1px solid rgba(86, 74, 64, 0.2);
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-detail-navigation a {
+    color: var(--editorial-accent);
+    font-size: 15px;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-detail-navigation a:hover,
+  .cases-page .case-story:has(.editorial-case-detail) .case-detail-navigation a:focus-visible {
+    color: #944628;
+  }
+
+  /* Internship detail: keep the established composition while removing legacy empty space. */
+  .cases-page .case-story:has(.editorial-case-detail--internship) .case-story-copy {
+    justify-content: center;
+    padding-block: 24px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .case-expanded-deck {
+    margin-top: 14px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .case-expanded-tags {
+    margin-top: 18px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .editorial-link {
+    margin-top: 24px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .editorial-case-detail {
+    margin-top: 42px;
+    padding-top: 22px;
+  }
+
+  .cases-page .editorial-case-detail--internship > header {
+    margin-bottom: 8px;
+  }
+
+  .cases-page .editorial-case-detail--internship > header h3 {
+    margin-top: 6px;
+    font-size: 32px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-detail-intro {
+    margin-bottom: 30px;
+    line-height: 1.72;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-detail-intro small {
+    margin-top: 7px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item,
+  .cases-page .editorial-case-detail--internship .editorial-item.is-reversed {
+    gap: 10px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item h4 {
+    margin: 4px 0 5px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item p {
+    color: rgba(86, 74, 64, 0.84);
+    font-size: 14px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+    padding: 0 0 5px;
+    border: 0;
+    border-bottom: 1px solid rgba(176, 82, 46, 0.42);
+    color: var(--editorial-accent);
+    background: transparent;
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.5;
+    cursor: pointer;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-toggle span {
+    transition: transform 0.3s ease;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-toggle:hover,
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-toggle:focus-visible {
+    color: #944628;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-collapse {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition: grid-template-rows 0.3s ease, opacity 0.3s ease;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-collapse.is-open {
+    grid-template-rows: 1fr;
+    opacity: 1;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-inner {
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-inner > header {
+    margin-top: 28px;
+    padding-top: 28px;
+    border-top: 1px solid rgba(86, 74, 64, 0.22);
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-inner > header p {
+    margin: 0;
+    color: var(--editorial-accent);
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: 0.12em;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-inner h4 {
+    margin: 7px 0 0;
+    font-size: 34px;
+    line-height: 1.12;
+    letter-spacing: -0.025em;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 72px;
+    margin-top: 29px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-grid section {
+    min-width: 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-grid h5 {
+    margin: 0 0 13px;
+    color: var(--black);
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-copy,
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-replacement-list p {
+    margin: 0;
+    color: var(--editorial-muted);
+    font-size: 14px;
+    line-height: 1.8;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-replacement-list {
+    display: grid;
+    gap: 6px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-replace-principle {
+    margin: 25px 0 0;
+    padding-top: 19px;
+    border-top: 1px solid rgba(86, 74, 64, 0.18);
+    color: var(--black);
+    font-family: Georgia, "Noto Serif SC", "Songti SC", serif;
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-budget-inner > small {
+    display: block;
+    margin-top: 16px;
+    color: rgba(86, 74, 64, 0.56);
+    font-size: 11px;
+    line-height: 1.5;
+  }
+}
+
+@media (min-width: 701px) and (max-width: 1100px) {
+  .cases-page .case-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: 320px;
+    padding-top: 34px;
+  }
+
+  .cases-page .case-list:not(:has(.editorial-case-detail)):not(:has(> .case-story:only-child)) .case-story {
+    grid-template-rows: 75% 25%;
+  }
+
+  .cases-page .case-story--index-1,
+  .cases-page .case-story--index-4 {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+
+  .cases-page .case-story--index-2,
+  .cases-page .case-story--index-3,
+  .cases-page .case-story--index-5,
+  .cases-page .case-story--index-6 {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+}
+
+@media (max-width: 700px) {
+  .cases-page .filter-bar {
+    gap: 18px;
+  }
+
+  .cases-page .filter-button + .filter-button {
+    padding-left: 18px;
+  }
+
+  .cases-page .case-list {
+    grid-template-columns: 1fr;
+    padding-top: 32px;
+  }
+
+  .cases-page .case-story,
+  .cases-page .case-story--a,
+  .cases-page .case-story--b,
+  .cases-page .case-story--c {
+    width: 100%;
+    height: auto;
+    aspect-ratio: auto;
+  }
+
+  .cases-page .case-story:not(:has(.editorial-case-detail)) .case-story-media {
+    height: auto;
+    aspect-ratio: 4 / 5;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) {
+    display: flex;
+    aspect-ratio: auto;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-story-media {
+    width: 100%;
+    min-height: 0;
+    aspect-ratio: 4 / 5;
+    border-radius: 2px 2px 0 0;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .case-story-copy {
+    width: 100%;
+    padding: 28px 24px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail) .editorial-case-detail {
+    width: auto;
+    margin: 0 20px 20px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-items {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 28px 14px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item,
+  .cases-page .editorial-case-detail--internship .editorial-item.is-reversed {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+    min-width: 0;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item-media,
+  .cases-page .editorial-case-detail--internship .editorial-item.is-reversed .editorial-item-media {
+    width: 100%;
+    aspect-ratio: 5 / 6;
+    order: initial;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item h4 {
+    margin: 5px 0 6px;
+    font-size: 15px;
+  }
+
+  .cases-page .editorial-case-detail--internship .editorial-item p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 1.55;
+  }
+
+  .cases-page .editorial-case-detail--internship .case-detail-navigation {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+}
+
+/* Internship detail only: compact editorial heading and a single replacement note. */
+.cases-page .editorial-case-detail--internship > .internship-style-note-heading {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.cases-page .editorial-case-detail--internship > .internship-style-note-heading h3 {
+  margin: 0;
+  font-size: 28px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+.cases-page .editorial-case-detail--internship > .internship-style-note-heading p {
+  margin: 0 0 8px;
+  color: var(--editorial-accent);
+  font-family: Inter, "Noto Sans SC", sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0.12em;
+}
+
+.cases-page .editorial-case-detail--internship .internship-replacement-hint {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  width: 100%;
+  margin-top: 36px;
+  padding-top: 18px;
+  border-top: 1px solid rgba(86, 74, 64, 0.2);
+  color: var(--editorial-muted);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.cases-page .editorial-case-detail--internship .internship-replacement-hint strong {
+  flex: 0 0 auto;
+  color: var(--editorial-accent);
+  font-family: Inter, "Noto Sans SC", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.cases-page .editorial-case-detail--internship .internship-replacement-hint span {
+  min-width: 0;
+}
+
+.cases-page .editorial-case-detail--internship .internship-replacement-hint + .case-detail-navigation {
+  margin-top: 28px;
+  padding-top: 0;
+  border-top: 0;
+}
+
+/* Internship detail only: keep the footer in normal flow while tightening the closing rhythm. */
+.cases-page .editorial-cases-layout:has(.editorial-case-detail--internship) {
+  padding-bottom: 56px;
+}
+
+@media (max-width: 700px) {
+  .cases-page .editorial-case-detail--internship > .internship-style-note-heading h3 {
+    font-size: 24px;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-replacement-hint {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+    margin-top: 28px;
+    padding-top: 16px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .editorial-case-detail--internship {
+    margin-bottom: 0;
+  }
+}
+
+/* Internship detail only: restrained desktop product discovery on the existing imagery. */
+.cases-page .editorial-case-detail--internship .internship-product-trigger {
+  display: contents;
+}
+
+.cases-page .editorial-case-detail--internship .internship-product-overlay {
+  display: none;
+}
+
+@media (min-width: 701px) {
+  .cases-page .editorial-case-detail--internship .internship-product-media {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: rgba(35, 29, 25, 0.18);
+    opacity: 0;
+    transition: opacity 190ms ease;
+    pointer-events: none;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger img {
+    transition: transform 190ms ease;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-overlay {
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    z-index: 2;
+    width: max-content;
+    max-width: calc(100% - 28px);
+    color: #fffaf3;
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: 0.04em;
+    opacity: 0;
+    transform: translate(-50%, calc(-50% + 4px));
+    transition: opacity 190ms ease, transform 190ms ease;
+    pointer-events: none;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:hover::after,
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:focus-visible::after,
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:hover .internship-product-overlay,
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:focus-visible .internship-product-overlay {
+    opacity: 1;
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:hover img,
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:focus-visible img {
+    transform: scale(1.015);
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:hover .internship-product-overlay,
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:focus-visible .internship-product-overlay {
+    transform: translate(-50%, -50%);
+  }
+
+  .cases-page .editorial-case-detail--internship .internship-product-trigger:focus-visible {
+    outline: 1px solid var(--editorial-accent);
+    outline-offset: -3px;
+  }
+
+  .internship-product-picker {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    display: grid;
+    place-items: center;
+    padding: 20px;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 200ms ease, visibility 0s linear 200ms;
+  }
+
+  .internship-product-picker.is-open {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transition-delay: 0s;
+  }
+
+  .internship-product-picker-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(35, 29, 25, 0.28);
+    backdrop-filter: blur(5px);
+  }
+
+  .internship-product-picker-dialog {
+    position: relative;
+    z-index: 1;
+    width: min(520px, calc(100vw - 40px));
+    max-width: 520px;
+    padding: 27px;
+    border: 1px solid rgba(111, 91, 75, 0.2);
+    border-radius: 12px;
+    background: #f2eadf;
+    box-shadow: 0 16px 42px rgba(35, 29, 25, 0.12);
+    opacity: 0;
+    transform: translateY(5px) scale(0.99);
+    transition: opacity 200ms ease, transform 200ms ease;
+  }
+
+  .internship-product-picker.is-open .internship-product-picker-dialog {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  .internship-product-picker-dialog h3 {
+    margin: 0 34px 0 0;
+    color: #2b2825;
+    font-family: Georgia, "Noto Serif SC", serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.25;
+  }
+
+  .internship-product-picker-kicker {
+    margin: 0 34px 5px 0;
+    color: #a95635;
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    line-height: 1.4;
+  }
+
+  .internship-product-picker-note {
+    margin: 0;
+    color: rgba(71, 62, 55, 0.54);
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  .internship-product-picker-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    display: grid;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    border: 0;
+    color: #514b45;
+    background: transparent;
+    font-family: Inter, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .internship-product-picker-options {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+    margin-top: 20px;
+  }
+
+  .internship-product-picker-option {
+    position: relative;
+    display: flex;
+    min-height: 0;
+    flex-direction: column;
+    min-width: 0;
+    padding: 0;
+    overflow: visible;
+    border: 0;
+    color: #2b2825;
+    background: transparent;
+    text-decoration: none;
+    cursor: pointer;
+    transition: none;
+  }
+
+  .internship-product-picker-option:hover,
+  .internship-product-picker-option:focus-visible {
+    box-shadow: none;
+    transform: none;
+  }
+
+  .internship-product-picker-category {
+    position: absolute;
+    z-index: 2;
+    top: 12px;
+    left: 12px;
+    display: block;
+    padding: 0;
+    color: #f8f2ea;
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    line-height: 1;
+    text-shadow: 0 1px 6px rgba(35, 29, 25, 0.62);
+    pointer-events: none;
+  }
+
+  .internship-product-picker-media {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    overflow: hidden;
+    background: #f1ebe2;
+  }
+
+  .internship-product-picker-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 200ms ease;
+  }
+
+  .internship-product-picker-option:nth-child(1) .internship-product-picker-media img {
+    object-position: 50% 50%;
+  }
+
+  .internship-product-picker-option:nth-child(2) .internship-product-picker-media img {
+    object-position: 50% 66%;
+  }
+
+  .internship-product-picker-option:hover .internship-product-picker-media img,
+  .internship-product-picker-option:focus-visible .internship-product-picker-media img {
+    transform: scale(1.02);
+  }
+
+  .internship-product-picker-fallback {
+    display: flex;
+    min-height: 176px;
+    flex-direction: column;
+    justify-content: center;
+    padding: 18px;
+    background: linear-gradient(145deg, rgba(240, 230, 219, 0.26), rgba(232, 216, 204, 0.56));
+  }
+
+  .internship-product-picker-fallback small {
+    color: var(--editorial-accent);
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+  }
+
+  .internship-product-picker-copy {
+    display: grid;
+    gap: 5px;
+    padding: 13px 0 0;
+    border: 0;
+    background: transparent;
+  }
+
+  .internship-product-picker-option strong {
+    font-family: Georgia, "Noto Serif SC", serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.35;
+  }
+
+  .internship-product-picker-link {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    align-self: start;
+    width: fit-content;
+    padding: 0 0 5px;
+    border: 0;
+    color: #a95635;
+    background: transparent;
+    font-family: Inter, "Noto Sans SC", sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    transition: color 200ms ease;
+  }
+
+  .internship-product-picker-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 28px;
+    height: 1px;
+    background: currentColor;
+    transition: width 200ms ease;
+  }
+
+  .internship-product-picker-link i {
+    display: inline-block;
+    font-style: normal;
+    transition: transform 200ms ease;
+  }
+
+  .internship-product-picker-option:hover .internship-product-picker-link i,
+  .internship-product-picker-option:focus-visible .internship-product-picker-link i {
+    transform: translateX(2px);
+  }
+
+  .internship-product-picker-option:hover .internship-product-picker-link,
+  .internship-product-picker-option:focus-visible .internship-product-picker-link {
+    color: #86452d;
+  }
+
+  .internship-product-picker-option:hover .internship-product-picker-link::after,
+  .internship-product-picker-option:focus-visible .internship-product-picker-link::after {
+    width: 40px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cases-page .case-story-media .image-placeholder,
+  .cases-page .case-story-media img {
+    transition: none;
+  }
+
+  .cases-page .case-story:hover .case-story-media .image-placeholder,
+  .cases-page .case-story:hover .case-story-media img {
+    transform: none;
+  }
+}
