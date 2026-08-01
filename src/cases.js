@@ -1,3 +1,4 @@
+
 import { budgetLabels, caseById, outfitCases, sceneLabels, stageLabels, styleLabels } from './case-data.js'
 import { imagePlaceholder, initShell } from './shared.js'
 
@@ -669,7 +670,7 @@ function detailItemMedia(item, index, outfitCase) {
   const overlayLabel = productLinks.length > 1 ? '查看相似单品' : productLinks[0].label
   const triggerAttributes = productLinks.length === 1
     ? `href="${productLinks[0].url}" target="_blank" rel="noopener noreferrer"`
-    : `href="#" data-product-picker="${index}" data-product-case="${outfitCase.id}" aria-haspopup="dialog"`
+    : `href="${productLinks[0].url}" target="_blank" rel="noopener noreferrer" data-product-picker="${index}" data-product-case="${outfitCase.id}" aria-haspopup="dialog"`
 
   return `
     <figure class="editorial-item-media${mediaClass} internship-product-media">
@@ -775,7 +776,7 @@ function closeProductPicker() {
 }
 
 function openProductPicker(item) {
-  if (!window.matchMedia('(min-width: 701px)').matches || !item?.productLinks || item.productLinks.length < 2) return
+  if (!item?.productLinks || item.productLinks.length < 2) return
   closeProductPicker()
   clearTimeout(productPickerCloseTimer)
 
@@ -821,12 +822,6 @@ document.addEventListener('keydown', (event) => {
 })
 
 list.addEventListener('click', (event) => {
-  const productAction = event.target.closest('.internship-product-trigger')
-  if (productAction && !window.matchMedia('(min-width: 701px)').matches) {
-    event.preventDefault()
-    return
-  }
-
   const productTrigger = event.target.closest('[data-product-picker]')
   if (productTrigger) {
     event.preventDefault()
