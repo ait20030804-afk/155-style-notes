@@ -744,7 +744,33 @@
   }
 
   /* Internship detail: keep the established composition while removing legacy empty space. */
-  .cases-pa…179 tokens truncated…ge .editorial-case-detail--internship > header h3 {
+  .cases-page .case-story:has(.editorial-case-detail--internship) .case-story-copy {
+    justify-content: center;
+    padding-block: 24px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .case-expanded-deck {
+    margin-top: 14px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .case-expanded-tags {
+    margin-top: 18px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .editorial-link {
+    margin-top: 24px;
+  }
+
+  .cases-page .case-story:has(.editorial-case-detail--internship) .editorial-case-detail {
+    margin-top: 42px;
+    padding-top: 22px;
+  }
+
+  .cases-page .editorial-case-detail--internship > header {
+    margin-bottom: 8px;
+  }
+
+  .cases-page .editorial-case-detail--internship > header h3 {
     margin-top: 6px;
     font-size: 32px;
   }
