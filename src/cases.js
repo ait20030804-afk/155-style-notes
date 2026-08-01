@@ -1,4 +1,3 @@
-
 import { budgetLabels, caseById, outfitCases, sceneLabels, stageLabels, styleLabels } from './case-data.js'
 import { imagePlaceholder, initShell } from './shared.js'
 
